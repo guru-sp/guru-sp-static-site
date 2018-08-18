@@ -32,3 +32,29 @@
   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
   width:         calc(45% - (#{$spacing-unit} / 2));
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .grid {
+      grid-template-columns: 200px 200px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .grid {
+      grid-template-columns: 200px;
+    }
+}
+
+.grid li {
+  list-style-type: none;
+  margin: 0px auto;
+  padding: 10px;
+  justify-self: center;
+  align-self: center;
+}

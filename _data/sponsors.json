@@ -1,0 +1,575 @@
+[
+  {
+    "sponsor": {
+      "id": 32,
+      "name": "Cedro Technologies",
+      "url": "http://www.cedro.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/32/logo-cedro.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/32/logo-cedro.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 52
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 31,
+      "name": "Creditas",
+      "url": "www.creditas.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/31/creditas.jpg",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/31/thumb_creditas.jpg"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 51
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 30,
+      "name": "Codus Tecnologia",
+      "url": "http://www.codus.com.br/",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/30/codus-logo-300x80.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/30/thumb_codus-logo-300x80.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 48
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 29,
+      "name": "TOTVS",
+      "url": "https://www.totvs.com/",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/29/1390248783_totvs.jpg",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/29/thumb_1390248783_totvs.jpg"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 50
+        },
+        {
+          "id": 47
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 28,
+      "name": "Gympass",
+      "url": "www.gympass.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/28/gympass.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/28/thumb_gympass.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 46
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 26,
+      "name": "IBM Brasil",
+      "url": "https://www.ibm.com/br-pt/",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/26/logo-ibm.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/26/thumb_logo-ibm.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 44
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 24,
+      "name": "Maplink",
+      "url": "www.maplink.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/24/regular_logo-maplink.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/24/thumb_regular_logo-maplink.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 42
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 23,
+      "name": "Apontador",
+      "url": "www.apontador.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/23/apontadorcom--sao-paulo.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/23/thumb_apontadorcom--sao-paulo.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 42
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 22,
+      "name": "Truckpad",
+      "url": "www.truckpad.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/22/logo_truckpad4.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/22/thumb_logo_truckpad4.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 42
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 21,
+      "name": "Emprego Ligado",
+      "url": "http://empregoligado.com.br/",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/21/emprego_ligado.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/21/thumb_emprego_ligado.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 41
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 20,
+      "name": "Shopify",
+      "url": "http://shopify.com",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/20/Shopify-logo.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/20/thumb_Shopify-logo.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 38
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 19,
+      "name": "Germinadora",
+      "url": "http://www.germinadora.com/",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/19/logo_transparente_black.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/19/thumb_logo_transparente_black.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 34
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 18,
+      "name": "Novatec",
+      "url": "http://www.novatec.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/18/logo-novatec.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/18/thumb_logo-novatec.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 36
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 17,
+      "name": "Google Develepers Brasil",
+      "url": "https://twitter.com/googledevbr",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/17/01_-_google.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/17/thumb_01_-_google.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 35
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 16,
+      "name": "Toptal",
+      "url": " http://wfernand.es/toptal",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/16/toptal-logo.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/16/thumb_toptal-logo.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 36
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 15,
+      "name": "Concrete Solutions",
+      "url": "http://www.concretesolutions.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/15/concrete.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/15/thumb_concrete.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 34
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 14,
+      "name": "Rubyconf",
+      "url": "http://www.rubyconf.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/14/ruby_2014.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/14/thumb_ruby_2014.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 34
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 12,
+      "name": "Vagas",
+      "url": "www.vagas.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/12/VAGAS_Tecnologia.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/12/thumb_VAGAS_Tecnologia.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 43
+        },
+        {
+          "id": 40
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 11,
+      "name": "Vizir Software Studio",
+      "url": "http://vizir.com.br/",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/11/vizir.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/11/thumb_vizir.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 38
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 10,
+      "name": "Codeminer 42",
+      "url": "http://www.codeminer42.com/",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/10/logo_codeminer42.svg",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/10/logo_codeminer42.svg"
+          }
+        }
+      },
+      "meetings": []
+    }
+  },
+  {
+    "sponsor": {
+      "id": 9,
+      "name": "Plataformatec",
+      "url": "http://www.plataformatec.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/9/plataformatec.svg",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/9/plataformatec.svg"
+          }
+        }
+      },
+      "meetings": []
+    }
+  },
+  {
+    "sponsor": {
+      "id": 8,
+      "name": "Wayra",
+      "url": "https://www.openfuture.org/en/space/wayra-sao-paulo",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/8/wayra.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/8/wayra.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 30
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 7,
+      "name": "Mercadopago",
+      "url": "https://www.mercadopago.com.br/",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/7/mercado-pago.jpg",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/7/thumb_mercado-pago.jpg"
+          }
+        }
+      },
+      "meetings": []
+    }
+  },
+  {
+    "sponsor": {
+      "id": 6,
+      "name": "Abril Digital",
+      "url": "http://digital.abril.com.br/",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/6/Abril_Midia.jpg",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/6/Abril_Midia.jpg"
+          }
+        }
+      },
+      "meetings": []
+    }
+  },
+  {
+    "sponsor": {
+      "id": 5,
+      "name": "Locaweb",
+      "url": "http://www.locaweb.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/5/Logo_Locaweb.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/5/thumb_Logo_Locaweb.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 37
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 4,
+      "name": "Bio Ritmo",
+      "url": "https://www.bioritmo.com.br/",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/4/bio-ritmo.jpg",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/4/thumb_bio-ritmo.jpg"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 49
+        },
+        {
+          "id": 31
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 3,
+      "name": "Garoa",
+      "url": "http://garoa.net.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/3/garoa.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/3/thumb_garoa.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 32
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 2,
+      "name": "Casa do Código",
+      "url": "http://www.casadocodigo.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/2/casadocodigo.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/2/thumb_casadocodigo.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 32
+        }
+      ]
+    }
+  },
+  {
+    "sponsor": {
+      "id": 1,
+      "name": "Caelum",
+      "url": "http://www.caelum.com.br",
+      "logo": {
+        "logo": {
+          "url": "/uploads/sponsor/logo/1/caelum.png",
+          "thumb": {
+            "url": "/uploads/sponsor/logo/1/thumb_caelum.png"
+          }
+        }
+      },
+      "meetings": [
+        {
+          "id": 27
+        }
+      ]
+    }
+  }
+]
