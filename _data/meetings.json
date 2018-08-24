@@ -1,0 +1,1367 @@
+[
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2018-06-09T09:30:00Z",
+      "description": "<p>Nosso pr&oacute;ximo encontro ser&aacute; no s&aacute;bado 9 de junho na Creditas.</p>\r\n\r\n<p>Envie sua proposta de palestra pelo speakerfight:&nbsp;<a href=\"https://speakerfight.com/events/49o-encontro-do-guru-sp-na-creditas-96/\">https://speakerfight.com/events/49o-encontro-do-guru-sp-na-creditas-96/</a></p>\r\n\r\n<p>Inscreva-se pelo meetup:&nbsp;<a href=\"https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/250917379/\">https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/250917379/</a></p>\r\n\r\n<p><br />\r\nTeremos um espa&ccedil;o de 30 minutos para lightining talks no final do evento.<br />\r\n<br />\r\nO estacionamento do pr&eacute;dio estar&aacute; fechado no dia, ent&atilde;o quem vier de carro deve parar por perto. &Eacute; poss&iacute;vel vir a p&eacute; da esta&ccedil;&atilde;o de trem Vila Ol&iacute;mpia (cerca de 10 minutos).<br />\r\n<br />\r\nAt&eacute; l&aacute;!</p>\r\n",
+      "id": 51,
+      "slug": "49-encontro-do-guru-sp-na-creditas",
+      "title": "49º encontro do Guru-SP na Creditas",
+      "venue": {
+        "id": 27
+      },
+      "talks": [],
+      "sponsors": [
+        {
+          "id": 31
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2018-05-08T19:30:00Z",
+      "description": "<p>Nesse encontro especial vamos nos reunir novamente na TOTVS junto com a comunidade RustLangBR</p>\r\n\r\n<p>Increva-se pelo meetup:</p>\r\n\r\n<p>https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/249463627/</p>\r\n\r\n<p>E envie sua palestra pelo speakerfight:</p>\r\n\r\n<p>https://speakerfight.com/events/encontro-de-comunidades-gurusp-e-rustlangbr/</p>\r\n",
+      "id": 50,
+      "slug": "48-encontro-guru-sp-e-rustlangbr-na-totvs",
+      "title": "48º encontro - Guru-SP e RustLangBR na TOTVS",
+      "venue": {
+        "id": 25
+      },
+      "talks": [
+        {
+          "id": 172
+        },
+        {
+          "id": 173
+        },
+        {
+          "id": 174
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 29
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2018-04-28T09:30:00Z",
+      "description": "<p>Nosso encontro de Abril foi na Bio Ritmo!</p>\r\n\r\n<p>Inscreva-se pelo meetup:</p>\r\n\r\n<p><a href=\"https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/249918824/\">https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/249918824/</a></p>\r\n\r\n<p>Algumas fotos desse encontro:</p>\r\n\r\n<p><a href=\"https://photos.google.com/share/AF1QipPUVGgdl5meLyE4u1PwTgDHGIfqH-rFiZfD55M4NdY7q7fh9NcA-Ypm7g2FZ1IyaA?key=bnVVdUNSQTBlSHZDdFBrRG5sVHhQSXBpOVdCcEZn&amp;source=ctrlq.org\"><img src=\"https://lh3.googleusercontent.com/ptPT2T7q6ePAqfIQK10IalF5ZzCe1vg9absA5WPsfSU7LEx-6Ew0oRAbKuLW0ItyovefvDniXdIFq0LienRBXxMcaXqMYYlzlZXC1MoKgBnVFDgJ7-azI26yiMnkbi8LfuvMEWQ77w=w2400\" width=\"480\" /></a></p>\r\n",
+      "id": 49,
+      "slug": "47-encontro-do-guru-sp-na-bio-ritmo",
+      "title": "47º encontro do Guru-SP na Bio Ritmo",
+      "venue": {
+        "id": 11
+      },
+      "talks": [
+        {
+          "id": 167
+        },
+        {
+          "id": 168
+        },
+        {
+          "id": 169
+        },
+        {
+          "id": 170
+        },
+        {
+          "id": 171
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 4
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2018-02-24T09:30:00Z",
+      "description": "<p>Nosso primeiro encontro do ano foi na Codus Tecnologia.</p>\r\n\r\n<p>Veja algumas fotos desse encontro:</p>\r\n<a href=\"https://photos.google.com/share/AF1QipOBS1QiGvrIVMWoxTK0-RKbHmbEobJX09IT3j8OPDvPf1iUxJYgWb3xpRNmwV8mkg?key=X2pJYkgxQ2xKeEVlaXhlb2tWTDMta2sta0Z3NVVn&amp;source=ctrlq.org\"><img src=\"https://lh3.googleusercontent.com/XHdvR15bHL_bnt6zZZ9Saw9kDz0XDRzpre7iRB7AdkRVdXs0nFaMyyhBvdpwPtQWnzy288xUNsgFf7UUsXLSAjE9R6wMw4gzv44qZDSE7E5LPG_sSH-5pDcKY9mZWe3AjI573y197w=w2400\" width=\"500\" /></a></p>\r\n",
+      "id": 48,
+      "slug": "46-encontro-do-guru-sp-na-codus-tecnologia",
+      "title": "46º encontro do Guru-SP na Codus Tecnologia",
+      "venue": {
+        "id": 26
+      },
+      "talks": [
+        {
+          "id": 162
+        },
+        {
+          "id": 163
+        },
+        {
+          "id": 164
+        },
+        {
+          "id": 165
+        },
+        {
+          "id": 166
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 30
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2017-09-16T09:00:00Z",
+      "description": "<p>Mais um encontro do Guru-SP!</p>\r\n\r\n<p>Dessa vez nos reunimos na sede da TOTVS em Santana.</p>\r\n\r\n<p>Em breve publicamos as fotos e v&iacute;deos do encontro.</p>\r\n\r\n<p>Palestras que aconteceram nesse encontro:</p>\r\n\r\n<p>Criando um m&oacute;dulo em Perl6 sem saber Perl6 (Paulo Pinheiro)</p>\r\n\r\n<p>Orquestrador multi-cloud escrito em Ruby - Apresentamos a Plataforma TOTVS Cloud (Rafael Panazzo e Marcelo Castellani)</p>\r\n\r\n<p>Remessas vindas do exterior e burocracia banc&aacute;ria. Uma abordagem &quot;fintech&quot; &agrave; esse problema. (Daniel Passarini)</p>\r\n\r\n<p>Como n&atilde;o escrever seus testes (Camila Campos)</p>\r\n\r\n<p>Ruby, Orienta&ccedil;&atilde;o a Objetos e RPG (Sergio Toledo)&nbsp;</p>\r\n\r\n<p>CQRS + DDD + Event Sourcing =  (Gabriel Corado)</p>\r\n\r\n<p>V&iacute;deo da transmiss&atilde;o ao vivo:&nbsp;https://www.youtube.com/watch?v=EXwT8gM-YfU</p>\r\n",
+      "id": 47,
+      "slug": "45-encontro-do-guru-sp-na-totvs",
+      "title": "45º encontro do Guru-SP na Totvs",
+      "venue": {
+        "id": 25
+      },
+      "talks": [],
+      "sponsors": [
+        {
+          "id": 29
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2017-07-15T09:00:00Z",
+      "description": "<p>Tivemos seis palestras nesse encontro, incluindo um live coding do PotHix.</p>\r\n\r\n<p><a href=\"https://www.youtube.com/playlist?list=PL5KmpU-nEj8ZS-Ch_GCeGWxeu3jT26qU1\">Assista as palestras no nosso canal no Youtube.</a></p>\r\n\r\n<p><a href=\"https://photos.google.com/share/AF1QipOwE0DHZji-1ChPnC-Ra0mxwAVC5gQS0fKwRxCF3ASYyyk1xqmwFLDLOh8A2TglXA?key=OHhwYVU1U0VybUZjc3ZyTmFGYWs0NmcxczRra0xR\">E veja aqui algumas fotos do encontro.</a></p>\r\n\r\n<p>Esse encontro foi&nbsp;poss&iacute;vel gra&ccedil;as a Gympass, que ofereceu o local e o coffee-break.</p>\r\n",
+      "id": 46,
+      "slug": "44-encontro-do-guru-sp-na-gympass",
+      "title": "44º encontro do Guru-SP na Gympass",
+      "venue": {
+        "id": 24
+      },
+      "talks": [],
+      "sponsors": [
+        {
+          "id": 28
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2017-04-29T09:30:00Z",
+      "description": "<p>As palestras desse encontro podem ser assistidas aqui:<a href=\"https://www.youtube.com/watch?v=Btc5SI4V1wQ&amp;list=PL5KmpU-nEj8aRzTO9ha3RtlqiFlttj1Yb\">&nbsp;https://www.youtube.com/watch?v=Btc5SI4V1wQ&amp;list=PL5KmpU-nEj8aRzTO9ha3RtlqiFlttj1Yb</a></p>\r\n\r\n<p><br />\r\n&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowtransparency=\"true\" frameborder=\"0\" hspace=\"0\" kwframeid=\"1\" marginheight=\"5\" marginwidth=\"5\" scrolling=\"auto\" src=\"http://speakerfight.com/events/43o-encontro-do-elug-sp-guru-sp-na-ibm-dia-294/schedule/\" vspace=\"0\" width=\"100%\"></iframe><script type=\"text/javascript\" src=\"https://cdn.rawgit.com/davidjbradshaw/iframe-resizer/master/js/iframeResizer.min.js\"></script><script type=\"text/javascript\">iFrameResize()</script></p>\r\n",
+      "id": 44,
+      "slug": "43-encontro-do-guru-sp-elug-sp-na-ibm",
+      "title": "43º encontro do Guru-SP + Elug-SP  na IBM",
+      "venue": {
+        "id": 23
+      },
+      "talks": [
+        {
+          "id": 155
+        },
+        {
+          "id": 156
+        },
+        {
+          "id": 157
+        },
+        {
+          "id": 158
+        },
+        {
+          "id": 159
+        },
+        {
+          "id": 160
+        },
+        {
+          "id": 161
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 26
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2016-11-19T09:25:00Z",
+      "description": "<p>Nosso &uacute;ltimo encontro presencial do ano de 2016.</p>\r\n\r\n<p><a href=\"https://photos.google.com/u/3/share/AF1QipOLGnoPV658U2RnGPoh1iMhfDxGWXzMqHDCfElgmlwyES2eMFdA3UUWs2BgvU95CA?key=SlBUNVVHVXpOX3BYM1NJWHFYNEFTaXhKTFRFdV9n\">Veja as fotos do&nbsp;42&ordm; encontro do Guru-SP</a></p>\r\n\r\n<p>Veja aqui as palestras que aconteceram nesse encontro:&nbsp;https://www.youtube.com/watch?v=NfucOzndumU</p>\r\n",
+      "id": 43,
+      "slug": "42-encontro-do-guru-sp-na-vagas-com",
+      "title": "42º encontro do Guru-SP na Vagas.com",
+      "venue": {
+        "id": 9
+      },
+      "talks": [],
+      "sponsors": [
+        {
+          "id": 12
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2016-09-10T09:30:00Z",
+      "description": "<p>Encontro pr&eacute;-rubyconf Brasil.</p>\r\n\r\n<p>A realiza&ccedil;&atilde;o desse encontro foi&nbsp;poss&iacute;vel gra&ccedil;as a TruckPad, Maplink e Apontador, que est&atilde;o cedendo o espa&ccedil;o e tamb&eacute;m patrocinando o &nbsp;coffee-break do evento.</p>\r\n\r\n<p>A seguir a agenda do encontro:</p>\r\n\r\n<p>9 - Caf&eacute; da manh&atilde;<br />\r\n9h30 - Rails Girls - Camila<br />\r\n9h50&nbsp;- U&aacute;i Elixir? (Why Elixir) - Jonathan<br />\r\n10h00 - Sua aplica&ccedil;&atilde;o Rails como um servi&ccedil;o systemd - Daniel<br />\r\n10h30 - Usando containers para acelerar o desenvolvimento - Rafael<br />\r\n11h00 - Criando uma CLI com mruby-cli - Thiago<br />\r\n11h30 -&nbsp;Como construir uma API de respeito com Rails - Alex<br />\r\n12h00 - coffee-break refor&ccedil;ado<br />\r\n12h30 -&nbsp;Brincando com reconhecimento de imagens com Ruby e Pok&eacute;mon - Diogo<br />\r\n13h00 -&nbsp;Ruby Games RPG MAKER - Renato FrancoTemos espa&ccedil;o para 50 pessoas.</p>\r\n",
+      "id": 42,
+      "slug": "41-guru-sp-na-truckpad",
+      "title": "41º Guru-SP na TruckPad",
+      "venue": {
+        "id": 22
+      },
+      "talks": [],
+      "sponsors": [
+        {
+          "id": 24
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 22
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2016-07-23T09:30:00Z",
+      "description": "<p>O 40&ordm;&nbsp;encontro do Guru-SP aconteceu no dia 23/07 no escrit&oacute;rio da Emprego Ligado e teve seis&nbsp;palestras de assuntos diversos.</p>\r\n\r\n<p><a href=\"https://goo.gl/photos/GWLLTB2JLU9HtVmN9\">Veja algumas fotos do encontro.</a></p>\r\n\r\n<p><a href=\"https://www.youtube.com/watch?v=KHWYHZqfP8Y\">Assista a grava&ccedil;&atilde;o das palestras transmitidas pelo youtube.</a></p>\r\n",
+      "id": 41,
+      "slug": "40-guru-sp-na-emprego-ligado",
+      "title": "40º Guru-SP na Emprego Ligado",
+      "venue": {
+        "id": 21
+      },
+      "talks": [
+        {
+          "id": 145
+        },
+        {
+          "id": 146
+        },
+        {
+          "id": 147
+        },
+        {
+          "id": 148
+        },
+        {
+          "id": 149
+        },
+        {
+          "id": 150
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 21
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2016-01-30T09:30:00Z",
+      "description": "<p>No primeiro encontro do ano fizemos um&nbsp;evento especial junto com o <a href=\"http://www.meetup.com/elug_sp/\">Elug-SP</a>&nbsp;(Elixir Users Group de S&atilde;o Paulo)&nbsp;no escrit&oacute;rio da <a href=\"http://www.vagas.com.br/institucional/quem-somos\">VAGAS.com</a></p>\r\n\r\n<p>Abrimos o evento as 9h30 e encerramos as&nbsp;16h30.</p>\r\n\r\n<p>Tivemos cinco&nbsp;palestras e uma ligthining talk al&eacute;m de um workshop sobre Elixir que aconteceu em paralelo.</p>\r\n\r\n<p><a href=\"https://goo.gl/photos/e2PWXmdgfV1XNiAW6\">Fotos desse encontro</a></p>\r\n",
+      "id": 40,
+      "slug": "39-encontro-do-guru-sp-elug-sp-na-vagas-com",
+      "title": "39° Encontro do Guru-SP + Elug-SP na VAGAS.com",
+      "venue": {
+        "id": 9
+      },
+      "talks": [
+        {
+          "id": 139
+        },
+        {
+          "id": 140
+        },
+        {
+          "id": 141
+        },
+        {
+          "id": 142
+        },
+        {
+          "id": 143
+        },
+        {
+          "id": 144
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 12
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "6214480374005205857",
+      "date": "2015-11-07T09:45:00Z",
+      "description": "<p>Conseguimos um espa&ccedil;o fornecido pela prefeitura de SP, o audit&oacute;rio da PRODAM com espa&ccedil;o para 100 pessoas pr&oacute;ximo ao terminal Barra Funda.</p>\r\n\r\n<p>Esse evento fez parte da <a href=\"http://www.saopaulotechweek.com/\">S&atilde;o Paulo Tech Week</a>:</p>\r\n\r\n<blockquote>\r\n<p>A S&atilde;o Paulo Tech Week &eacute; um movimento que valoriza o DNA criativo, inovador e empreendedor de S&atilde;o Paulo. No per&iacute;odo de 03 a 09 de novembro S&atilde;o Paulo ser&aacute; palco para iniciativas e eventos din&acirc;micos, atraindo e conectando milhares de talentos, empreendedores e investidores e posicionando S&atilde;o Paulo como um hub global de inova&ccedil;&atilde;o.</p>\r\n</blockquote>\r\n",
+      "id": 39,
+      "slug": "guru-sp-38-na-sao-paulo-tech-week",
+      "title": "Guru-SP 38 na São Paulo Tech Week",
+      "venue": {
+        "id": 20
+      },
+      "talks": [
+        {
+          "id": 151
+        },
+        {
+          "id": 152
+        },
+        {
+          "id": 153
+        },
+        {
+          "id": 154
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "6155407135890600705",
+      "date": "2015-05-30T09:30:00Z",
+      "description": "<p>O nosso 37o Esse encontro teve patroc&iacute;nio da&nbsp;Vizir e da Shopify e teve 7 palestras.</p>\r\n",
+      "id": 38,
+      "slug": "guru-sp-37-na-vizir",
+      "title": "Guru-SP 37 na Vizir",
+      "venue": {
+        "id": 19
+      },
+      "talks": [
+        {
+          "id": 132
+        },
+        {
+          "id": 133
+        },
+        {
+          "id": 134
+        },
+        {
+          "id": 135
+        },
+        {
+          "id": 136
+        },
+        {
+          "id": 137
+        },
+        {
+          "id": 138
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 20
+        },
+        {
+          "id": 11
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "6121035612536493345",
+      "date": "2015-02-28T10:00:00Z",
+      "description": "<p>O primeiro encontro do ano aconteceu no dia 28/02, das 10 as 16hs<strong>,&nbsp;</strong>&nbsp;na sede da&nbsp;Locaweb, que fica pr&oacute;ximo&nbsp;ao terminal Jo&atilde;o Dias com almo&ccedil;o e coffe-break fornecidos pela Locaweb.</p>\r\n\r\n<p>Al&eacute;m das palestras tamb&eacute;m tivemos algumas lightinink talks e pudemos conhecer um pouco do pr&eacute;dio da Locaweb.</p>\r\n\r\n<p>Os v&iacute;deos desse encontro foram gravados pela Locaweb. <a href=\"https://www.eventials.com/locaweb/groups/guru-sp-locaweb/\">Veja aqui os v&iacute;deos no&nbsp;Eventials</a>.</p>\r\n\r\n<p>Agradecemos a Locaweb pelo apoio e ajuda para organizar esse encontro.</p>\r\n",
+      "id": 37,
+      "slug": "guru-sp-36-na-locaweb",
+      "title": "Guru-SP 36 na Locaweb",
+      "venue": {
+        "id": 18
+      },
+      "talks": [
+        {
+          "id": 127
+        },
+        {
+          "id": 128
+        },
+        {
+          "id": 129
+        },
+        {
+          "id": 130
+        },
+        {
+          "id": 131
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 5
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "6079496954437480513",
+      "date": "2014-11-08T09:45:00Z",
+      "description": "<p>&Uacute;ltimo encontro do ano que aconteceu&nbsp;no Centro de Treinamentos da <a href=\"http://www.novatec.com.br\">editora Novatec</a>.</p>\r\n\r\n<p>Nesse encontro tivemos 5 palestras.</p>\r\n\r\n<p>Sorteamos um livro doado pela Novatec entre os participantes.</p>\r\n\r\n<p><a href=\"http://wfernand.es/toptal\">O coffe-break desse evento foi&nbsp;patrocinado pela Toptal.</a></p>\r\n",
+      "id": 36,
+      "slug": "35o-encontro-do-guru-sp",
+      "title": "35o Encontro do Guru-SP",
+      "venue": {
+        "id": 17
+      },
+      "talks": [],
+      "sponsors": [
+        {
+          "id": 18
+        },
+        {
+          "id": 16
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "6059305699180285249",
+      "date": "2014-09-13T09:30:00Z",
+      "description": "<p>Encontro do Guru-SP p&oacute;s-Rubyconf Brasil no Google Brasil!</p>\r\n\r\n<p>Nesse encontro tivemos 7 palestras sobre assuntos diversos.</p>\r\n\r\n<p>Distribu&iacute;mos adesivos do Guru-SP e tamb&eacute;m um brinde especial da <a href=\"https://saucelabs.com/\">Sauce Labs</a>!</p>\r\n\r\n<p>O Pessoal da JetBrains sorteu uma licen&ccedil;a do <a href=\"http://www.jetbrains.com/ruby/\">Rubymine</a>.</p>\r\n",
+      "id": 35,
+      "slug": "trigesimo-quarto-encontro-do-guru-sp",
+      "title": "Trigésimo quarto encontro do Guru-SP",
+      "venue": {
+        "id": 15
+      },
+      "talks": [
+        {
+          "id": 118
+        },
+        {
+          "id": 121
+        },
+        {
+          "id": 122
+        },
+        {
+          "id": 123
+        },
+        {
+          "id": 124
+        },
+        {
+          "id": 125
+        },
+        {
+          "id": 126
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 17
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "6040475914197352065",
+      "date": "2014-07-26T09:30:00Z",
+      "description": "<p>Finalmente o ano come&ccedil;ou&nbsp;para o Guru-SP!&nbsp;Nesse encontro tivemos 5 palestras.</p>\r\n\r\n<p>A Locaweb ofereceu um desconto de 50% para a<a href=\"http://www.rubyconf.com.br\"> Rubyconf Brasil 2014</a> para quem usou&nbsp;o c&oacute;digo de desconto <strong>ParceriaGuruSP.</strong></p>\r\n\r\n<p>Esse encontro foi poss&iacute;vel gra&ccedil;as aos patroc&iacute;nios da Germinadora, oferecendo o local do encontro e da Concrete Solutions, que ajudou com o pagamento do coffee-break.</p>\r\n",
+      "id": 34,
+      "slug": "trigesimo-terceiro-encontro-do-guru-sp",
+      "title": "Trigésimo terceiro encontro do Guru-SP",
+      "venue": {
+        "id": 14
+      },
+      "talks": [
+        {
+          "id": 110
+        },
+        {
+          "id": 112
+        },
+        {
+          "id": 113
+        },
+        {
+          "id": 114
+        },
+        {
+          "id": 116
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 19
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5966657267245604481",
+      "date": "2013-12-21T11:55:00Z",
+      "description": "<p>Para fechar o ano de 2013 nos reunimos no restaurante <a href=\"http://www.gracamineira.com.br/\">Gra&ccedil;a Mineira</a>, pr&oacute;ximo ao metr&ocirc; Santa Cruz.</p>\r\n",
+      "id": 33,
+      "slug": "trigesimo-segundo-encontro-do-guru-sp",
+      "title": "Trigésimo Segundo Encontro do Guru-SP",
+      "venue": {
+        "id": 13
+      },
+      "talks": [],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5966652947607033169",
+      "date": "2013-09-14T09:25:00Z",
+      "description": "<p>Contamos com a presen&ccedil;a ilustre de&nbsp;<a href=\"http://vinibaggio.net/\">Vin&iacute;cius Baggio Fuentes</a>, direto de San Francisco.</p>\r\n\r\n<p>Dessa vez estivemos&nbsp;no Garoa Hacker Clube, um laborat&oacute;rio comunit&aacute;rio pr&oacute;ximo a esta&ccedil;&atilde;o de metr&ocirc; Pinheiros (linha amarela). Nosso encontro teve o patroc&iacute;nio da <a href=\"http://casadocodigo.com.br\">Casa do C&oacute;digo</a> para o coffee-break, al&eacute;m do sorteio de alguns ebooks.</p>\r\n\r\n<p>Esse encontro teve 5 palestras. Os v&iacute;deos ser&atilde;o disponibilizados em breve.</p>\r\n",
+      "id": 32,
+      "slug": "trigesimo-primeiro-encontro-do-guru-sp",
+      "title": "Trigésimo Primeiro Encontro do Guru-SP",
+      "venue": {
+        "id": 12
+      },
+      "talks": [
+        {
+          "id": 104
+        },
+        {
+          "id": 105
+        },
+        {
+          "id": 106
+        },
+        {
+          "id": 107
+        },
+        {
+          "id": 108
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 3
+        },
+        {
+          "id": 2
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5892427002119633313",
+      "date": "2013-06-22T09:30:00Z",
+      "description": "<p>Finalmente&nbsp;hegamos ao 30&ordm; encontro do Guru-SP.</p>\r\n\r\n<p>Dessa vez nos reunimos no terra&ccedil;o da <a href=\"http://bioritmo.com.br\">Bio Ritmo</a>&nbsp;Paulista, que patrocinou o&nbsp;encontro fornecendo o local e o coffe-break.</p>\r\n",
+      "id": 31,
+      "slug": "trigesimo-encontro-do-guru-sp",
+      "title": "Trigésimo encontro do Guru-SP",
+      "venue": {
+        "id": 11
+      },
+      "talks": [
+        {
+          "id": 97
+        },
+        {
+          "id": 98
+        },
+        {
+          "id": 99
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 4
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5866725006540128161",
+      "date": "2013-04-13T09:45:00Z",
+      "description": "<p>Esse encontro ocorreu no audit&oacute;rio da aceleradora&nbsp;<a href=\"http://wayra.org/pt-br\">Wayra</a>&nbsp;Brasil e teve o coffe-break patrocinado pela startup<a href=\"http://vozero.com.br/\">Vozero</a>. Agradecemos ao apoio das duas empresas.</p>\r\n\r\n<p>O encontro teve tr&ecirc;s keynotes:</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<ul style=\"\">\r\n\t<li>Nando Vieira falou das novidades do Ruby 2.0.</li>\r\n\t<li>&Eacute;verten Ribeiro falou sobre &nbsp;o <a href=\"http://www.12factor.net/\">The Twelve-Factor App</a>, arquitetura de PaaS e projeto Openruko;</li>\r\n\t<li>Bruno Buccolo falou sobre o desafio de como processar 6 milh&otilde;es de imagens em uma noite usando AWS e Sidekiq.</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Slides e v&iacute;deos das apresenta&ccedil;&otilde;es em breve.</p>\r\n",
+      "id": 30,
+      "slug": "vigesimo-nono-encontro-do-guru-sp",
+      "title": "Vigésimo nono encontro do Guru-SP",
+      "venue": {
+        "id": 10
+      },
+      "talks": [
+        {
+          "id": 90
+        },
+        {
+          "id": 91
+        },
+        {
+          "id": 92
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 8
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5809338034806281057",
+      "date": "2012-11-10T10:00:00Z",
+      "description": "<p>O nosso 27o encontro foi patrocinado pela <a href=\"http://www.vagas.com.br\">Vagas Tecnologia</a>&nbsp; e contou com 5 palestras sobre games ( e n&atilde;o necessariamente envolvendo Ruby).</p>\r\n",
+      "id": 29,
+      "slug": "guru-sp-level-27-games",
+      "title": "Guru-SP Level 27: Games",
+      "venue": {
+        "id": 9
+      },
+      "talks": [
+        {
+          "id": 78
+        },
+        {
+          "id": 79
+        },
+        {
+          "id": 80
+        },
+        {
+          "id": 93
+        },
+        {
+          "id": 94
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5853436129081076065",
+      "date": "2013-03-09T09:45:00Z",
+      "description": "<p>\r\n\tFinalmente 2013 come&ccedil;a para o Guru-SP!</p>\r\n<p>\r\n\tO coffee-break desse encontro foi patrocinado pela <a href=\"http://www.vizir.com.br\">Vizir</a>.</p>\r\n<p>\r\n\tNo primeiro encontro do ano tivemos cerca de 80 participantes assistindo a 5 palestras.</p>\r\n",
+      "id": 28,
+      "slug": "vigesimo-oitavo-encontro-do-guru-sp",
+      "title": "Vigésimo Oitavo encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 85
+        },
+        {
+          "id": 86
+        },
+        {
+          "id": 87
+        },
+        {
+          "id": 88
+        },
+        {
+          "id": 89
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5791092389385457249",
+      "date": "2012-09-22T09:30:00Z",
+      "description": "<p>O 26o encontro contou com apresenta&ccedil;&otilde;es de Thiago Scalone, Nando Vieira, Jo&atilde;o Moura e Pothix. O coffee-break foi patrocinado pela <a href=\"http://www.concretesolutions.com.br\">Concrete Solutions</a>.</p>\r\n",
+      "id": 27,
+      "slug": "vigesimo-sexto-encontro-rejectconf-edition",
+      "title": "Vigésimo sexto encontro - RejectConf Edition",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 100
+        },
+        {
+          "id": 101
+        },
+        {
+          "id": 102
+        },
+        {
+          "id": 103
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 1
+        }
+      ]
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5772573810805952817",
+      "date": "2012-06-30T09:30:00Z",
+      "description": "<p>\r\n\tNo 25o encontro contamos com quatro apresenta&ccedil;&otilde;es. O coffee-break desse encontro foi patrocinado pelo MercadoPago.</p>\r\n",
+      "id": 26,
+      "slug": "vigesimo-quinto-encontro-do-guru-sp",
+      "title": "Vigésimo quinto encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 40
+        },
+        {
+          "id": 41
+        },
+        {
+          "id": 42
+        },
+        {
+          "id": 43
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5755418327906646481",
+      "date": "2012-05-19T09:30:00Z",
+      "description": "<p>\r\n\tMais um encontro no audit&oacute;rio da Abril. Tivemos 3 palestras: sobre Lisp com Plinio Balduino, Web Sem&acirc;ntica com o Luis Cipriani e Rails e Node.js com o Nando Vieira. Coffe-break oferecido pela Abril, obrigado!</p>\r\n",
+      "id": 25,
+      "slug": "vigesimo-quarto-encontro-do-guru-sp",
+      "title": "Vigésimo quarto encontro do Guru-SP",
+      "venue": {
+        "id": 8
+      },
+      "talks": [
+        {
+          "id": 44
+        },
+        {
+          "id": 45
+        },
+        {
+          "id": 46
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5731025721519992945",
+      "date": "2012-04-07T10:00:00Z",
+      "description": "<p>\r\n\tMais um encontro no Audit&oacute;rio da Abril e com coffe-break patrocinado pela Abril. Tivemos duas keynotes: do Jos&eacute; Valim falando sobre a linguagem Elixir e uma palestra com Guilherme Silveira e Ricardo Valeriano sobre a linguagem mais legal do mundo.</p>\r\n",
+      "id": 24,
+      "slug": "vigesimo-terceiro-encontro-do-guru-sp",
+      "title": "Vigésimo terceiro encontro do Guru-SP",
+      "venue": {
+        "id": 8
+      },
+      "talks": [
+        {
+          "id": 47
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5713152707117443473",
+      "date": "2012-02-25T09:30:00Z",
+      "description": "<p>\r\n\tMais uma vez reunidos na Caelum! O coffee-break desse encontro foi patrocinado pela Hellobits.</p>\r\n",
+      "id": 23,
+      "slug": "vigesimo-segundo-encontro-do-guru-sp",
+      "title": "Vigésimo segundo encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 48
+        },
+        {
+          "id": 49
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5713153758942165953",
+      "date": "2012-01-28T11:00:00Z",
+      "description": "O primeiro encontro de 2012 ocorreu na Caelum e teve o coffee-break patrocinado pela Codeminer.",
+      "id": 22,
+      "slug": "vigesimo-primeiro-encontro-do-guru-sp",
+      "title": "Vigésimo primeiro encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 52
+        },
+        {
+          "id": 53
+        },
+        {
+          "id": 54
+        },
+        {
+          "id": 55
+        },
+        {
+          "id": 56
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5680035898646145473",
+      "date": "2011-11-26T15:00:00Z",
+      "description": "O último encontro de 2011 foi realizado no auditório da Abril.\r\nContamos com palestras do Plínio Balduino, Jean Nascimento (Suissa), João Moura, Luis Cipriani e Marcus Vinícius.\r\nO coffe-break também foi patrocinado pela Abril.",
+      "id": 21,
+      "slug": "vigesimo-encontro-do-guru-sp",
+      "title": "Vigésimo encontro do Guru-SP",
+      "venue": {
+        "id": 8
+      },
+      "talks": [
+        {
+          "id": 57
+        },
+        {
+          "id": 58
+        },
+        {
+          "id": 59
+        },
+        {
+          "id": 60
+        },
+        {
+          "id": 61
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5680031932535889009",
+      "date": "2011-10-15T15:45:00Z",
+      "description": "O décimo nono encontro falamos sobre arquitetura e refatoração de código contando com palestras do Cássio Marques, Nando Vieira e Vinicius Baggio Fuentes.",
+      "id": 20,
+      "slug": "decimo-nono-encontro-do-guru-sp",
+      "title": "Décimo nono encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 64
+        },
+        {
+          "id": 65
+        },
+        {
+          "id": 66
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5648201515320644321",
+      "date": "2011-09-03T18:30:00Z",
+      "description": "Esse encontro teve palestras sobre JRuby com Douglas qmx, Scala com o Alberto Souza, ObjectiveC com o Fernando Ribeiro e lightning talks com Tomas D'Stefano e Rinaldi Fonseca.",
+      "id": 19,
+      "slug": "decimo-oitavo-encontro-do-guru-sp",
+      "title": "Décimo oitavo encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 74
+        },
+        {
+          "id": 75
+        },
+        {
+          "id": 76
+        },
+        {
+          "id": 77
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2011-07-23T18:30:00Z",
+      "description": "O 17o encontro teve o coffee-break patrocinado pela BooBox.",
+      "id": 18,
+      "slug": "decimo-setimo-encontro-do-guru-sp",
+      "title": "Décimo sétimo encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 71
+        },
+        {
+          "id": 72
+        },
+        {
+          "id": 73
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2011-06-11T18:30:00Z",
+      "description": "Com coffe-break patrocinado pelo R7.",
+      "id": 17,
+      "slug": "decimo-sexto-encontro-do-guru-sp",
+      "title": "Décimo sexto encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 67
+        },
+        {
+          "id": 68
+        },
+        {
+          "id": 69
+        },
+        {
+          "id": 70
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2011-03-26T09:45:00Z",
+      "description": "<p>Contou com palestras do Anderson Leite sobre Mixins e do Vinicius Baggio Fuentes sobre como aplicar os princ&iacute;pios do SOLID. O coffee-break do encontro foi patrocinado pela Locaweb.</p>\r\n",
+      "id": 16,
+      "slug": "decimo-quinto-encontro-do-guru-sp",
+      "title": "Décimo quinto encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2011-02-26T12:00:00Z",
+      "description": "Nesse encontro, com coffee-break patrocinado pela Gonow assistimos ao vivo ao segundo dia do evento RubyMastersConf.",
+      "id": 15,
+      "slug": "decimo-quarto-encontro-do-guru-sp",
+      "title": "Décimo quarto encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5645257238034122177",
+      "date": "2011-01-22T11:00:00Z",
+      "description": "O primeiro encontro de 2011 contou com palestras de Vinicius Baggio Fuentes, Fabio Akita, Rubem Azenha e Maurício Szabo.",
+      "id": 14,
+      "slug": "decimo-terceiro-encontro-do-guru-sp",
+      "title": "Décimo terceiro encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 36
+        },
+        {
+          "id": 37
+        },
+        {
+          "id": 38
+        },
+        {
+          "id": 39
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5645249642727004257",
+      "date": "2010-12-11T11:30:00Z",
+      "description": "Curiosidade: Na verdade o décimo segundo encontro do Guru-SP havia sido marcado nos dia da Rubyconf 2010 (26 e 27 de Outubro), no bar Opção.\r\n\r\nPorém o encontro beneficente do final do ano acabou sendo registrado como o décimo segundo encontro.\r\n\r\nOs participantes trouxeram leite em pó que foi doado por uma instituição escolhida pela Caelum e contamos com algumas lightining talks.",
+      "id": 13,
+      "slug": "encontro-beneficente-do-guru-sp",
+      "title": "Encontro beneficente do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5779184868641358321",
+      "date": "2010-05-29T09:00:00Z",
+      "description": "<p>A segunda edi&ccedil;&atilde;o do Ruby+Rails no Mundo Real foi organizada pelo Guru-SP e Tempo Real Eventos O evento contou com o patroc&iacute;nio da Autoseg, Dextra Locaweb, Mindaslab e Plataformatec.</p>\r\n",
+      "id": 12,
+      "slug": "ruby-rails-no-mundo-real-2010",
+      "title": "Ruby + Rails no Mundo Real 2010",
+      "venue": {
+        "id": 1
+      },
+      "talks": [
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5645243982187011457",
+      "date": "2010-09-18T09:30:00Z",
+      "description": "<p>\r\n\tO d&eacute;cimo primeiro encontro realizado na Caelum e com coffee-break patrocinado pela Gonow contou com diversas lightining talks.</p>\r\n",
+      "id": 11,
+      "slug": "decimo-primeiro-encontro-do-guru-sp",
+      "title": "Décimo primeiro encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5645242631087681457",
+      "date": "2010-07-24T12:30:00Z",
+      "description": "O décimo encontro foi uma mesa redonda com profissionais tratando sobre experiências e cases de empresas e contou com os seguintes nomes na mesa redonda:\r\nRogério Augusto, Nando Vieira, Tino Gomes, Adriano Almeida, Fábio Kung, Wagner Narde e Alexandre Gregianin.",
+      "id": 10,
+      "slug": "decimo-encontro-do-guru-sp-mesa-redonda",
+      "title": "Décimo encontro do Guru-SP: mesa redonda",
+      "venue": {
+        "id": 7
+      },
+      "talks": [],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2010-06-26T15:30:00Z",
+      "description": "O nono encontro foi patrocinado mais uma vez pela Surgeworks e também pela SOAExpert.\r\nNesse encontro contamos com um Coding Dojo com Rodrigo Flores.",
+      "id": 9,
+      "slug": "nono-encontro-do-guru-sp",
+      "title": "Nono encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5645244986807783697",
+      "date": "2010-04-10T12:30:00Z",
+      "description": "O oitavo encontro do Guru-SP aconteceu na Caelum e teve o coffee-break patrocinado pela empresa Surgeworks.",
+      "id": 8,
+      "slug": "oitavo-encontro-do-guru-sp",
+      "title": "Oitavo encontro do Guru-SP",
+      "venue": {
+        "id": 7
+      },
+      "talks": [
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5645238208683113601",
+      "date": "2010-03-13T13:00:00Z",
+      "description": "O sétimo encontro aconteceu no hotel Green Place Flat graças ao patrocínio da Caelum.",
+      "id": 7,
+      "slug": "setimo-encontro-do-guru-sp",
+      "title": "Sétimo encontro do Guru-SP",
+      "venue": {
+        "id": 6
+      },
+      "talks": [
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5645231651486892497",
+      "date": "2009-09-26T09:00:00Z",
+      "description": "Realizado em um auditório cedido pela Gonow Tecnologia o sexto encontro do Guru-SP foi uma mesa redonda sobre testes.\r\n\r\nContamos com  a presença dos seguintes convidados:\r\nAnderson Leite, Cássio Marques, Jorge Diz, Ricardo Shadow9 Yasuda e Thiago Scalone.\r\n",
+      "id": 6,
+      "slug": "sexto-encontro-sobre-testes",
+      "title": "Sexto encontro sobre testes",
+      "venue": {
+        "id": 5
+      },
+      "talks": [],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5645225395871909089",
+      "date": "2009-07-18T16:00:00Z",
+      "description": "O quinto encontro da comunidade realizado na Voice Technology, no centro de São Paulo teve uma introdução ao DataMapper com Rafael Rosa Fu, lições de Git com qmx(Douglas Campos) e um dojo de Rspec com o Vinicius Baggio Fuentes.",
+      "id": 5,
+      "slug": "quinto-encontro-da-comunidade-na-voice-technology",
+      "title": "Quinto encontro da comunidade na Voice Technology",
+      "venue": {
+        "id": 4
+      },
+      "talks": [
+        {
+          "id": 62
+        },
+        {
+          "id": 63
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "",
+      "date": "2009-05-09T06:00:00Z",
+      "description": "O quarto encontro da comunidade foi Feito no Antigo endereço da Inspira, na Av. Paulista e contou com a presença de Rafael Rosa e Agaelebe.",
+      "id": 4,
+      "slug": "quarto-encontro-do-guru-sp",
+      "title": "Quarto encontro do Guru-SP",
+      "talks": [],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5772575247093115617",
+      "date": "2009-04-04T15:00:00Z",
+      "description": "O terceiro encontro do Guru-SP foi o evento Ruby+Rails no mundo Real, realizado em conjunto com a Tempo Real Eventos.",
+      "id": 3,
+      "slug": "ruby-rails-no-mundo-real-primeira-edicao",
+      "title": "Ruby + Rails no Mundo Real - primeira edição",
+      "venue": {
+        "id": 1
+      },
+      "talks": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        }
+      ],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5779189748092782193",
+      "date": "2009-01-24T08:00:00Z",
+      "description": "O segundo encontro do Guru aconteceu em meio a Campus Party contando novamente com a presença do Marcelo, PotHix e a ilustre figura: Fábio Akita.",
+      "id": 2,
+      "slug": "segundo-encontro-na-campus-party",
+      "title": "Segundo encontro na Campus Party",
+      "venue": {
+        "id": 3
+      },
+      "talks": [],
+      "sponsors": []
+    }
+  },
+  {
+    "meeting": {
+      "album_id": "5779186650825254625",
+      "date": "2008-12-06T12:00:00Z",
+      "description": "No primeiro encontro do Guru-SP, Marcelo Castellani, Hugo Borges (agaelebe) e Willian Mollinari (pothix) se reuniram em São Caetano para falar um pouco sobre Ruby.",
+      "id": 1,
+      "slug": "primeiro-encontro",
+      "title": "Primeiro encontro",
+      "venue": {
+        "id": 2
+      },
+      "talks": [],
+      "sponsors": []
+    }
+  }
+]

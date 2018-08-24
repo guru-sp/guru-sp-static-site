@@ -58,3 +58,20 @@
   justify-self: center;
   align-self: center;
 }
+
+.meetings-list {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+
+.meeting-date {
+  font-style: italic;
+  display: inline-block;
+  float: right;
+}
+
+.meeting-title {
+  display: inline-block;
+}

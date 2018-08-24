@@ -1,0 +1,802 @@
+[
+  {
+    "speaker": {
+      "id": 104,
+      "name": "Bruno Rocha",
+      "nickname": "",
+      "twitter": "rochacbruno"
+    }
+  },
+  {
+    "speaker": {
+      "id": 103,
+      "name": "Niko Matsakis",
+      "nickname": "",
+      "twitter": "nikomatsakis"
+    }
+  },
+  {
+    "speaker": {
+      "id": 102,
+      "name": "Anderson Rocha",
+      "nickname": "Max",
+      "twitter": "anderson2320_7"
+    }
+  },
+  {
+    "speaker": {
+      "id": 101,
+      "name": "Daniel Vinciguerra",
+      "nickname": "",
+      "twitter": "dvinciguerra"
+    }
+  },
+  {
+    "speaker": {
+      "id": 100,
+      "name": "Rodrigo Masaru Ohashi",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 99,
+      "name": "Renan Hidemi Kataoka",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 98,
+      "name": "Fernando Guisso",
+      "nickname": "",
+      "twitter": "_fguisso"
+    }
+  },
+  {
+    "speaker": {
+      "id": 97,
+      "name": "Victor Marques",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 96,
+      "name": "Fernando Kakimoto",
+      "nickname": "",
+      "twitter": "nandokakimoto"
+    }
+  },
+  {
+    "speaker": {
+      "id": 95,
+      "name": "Daniel Libanori",
+      "nickname": "",
+      "twitter": "dlibanori"
+    }
+  },
+  {
+    "speaker": {
+      "id": 94,
+      "name": "André Luis Anastasio",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 93,
+      "name": "Kemel Zaidan",
+      "nickname": "",
+      "twitter": "kemelzaidan"
+    }
+  },
+  {
+    "speaker": {
+      "id": 92,
+      "name": "Ruan Brandão",
+      "nickname": "",
+      "twitter": "ruanbrandao"
+    }
+  },
+  {
+    "speaker": {
+      "id": 91,
+      "name": "Alda Rocha",
+      "nickname": "",
+      "twitter": "mjcoffeeholick"
+    }
+  },
+  {
+    "speaker": {
+      "id": 90,
+      "name": " Geovane Fedrecheski",
+      "nickname": "",
+      "twitter": "https://twitter.com/geonnave"
+    }
+  },
+  {
+    "speaker": {
+      "id": 89,
+      "name": "Igor Florian",
+      "nickname": "",
+      "twitter": "igorflorianfs"
+    }
+  },
+  {
+    "speaker": {
+      "id": 88,
+      "name": "Rafael França",
+      "nickname": "",
+      "twitter": "rafaelfranca"
+    }
+  },
+  {
+    "speaker": {
+      "id": 87,
+      "name": "Danilo Resende",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 86,
+      "name": "Celso Crivelaro",
+      "nickname": "",
+      "twitter": "celsocrivelaro"
+    }
+  },
+  {
+    "speaker": {
+      "id": 85,
+      "name": "Volmer Soares",
+      "nickname": "",
+      "twitter": "volmerius"
+    }
+  },
+  {
+    "speaker": {
+      "id": 84,
+      "name": "André Pantalião",
+      "nickname": "",
+      "twitter": "andre_pantaliao"
+    }
+  },
+  {
+    "speaker": {
+      "id": 83,
+      "name": "George Guimarães",
+      "nickname": "",
+      "twitter": "georgeguimaraes"
+    }
+  },
+  {
+    "speaker": {
+      "id": 82,
+      "name": "André Luís Anastácio",
+      "nickname": "",
+      "twitter": "ndrluis"
+    }
+  },
+  {
+    "speaker": {
+      "id": 81,
+      "name": "Leandro A. da Costa",
+      "nickname": "",
+      "twitter": "leandroadacosta"
+    }
+  },
+  {
+    "speaker": {
+      "id": 80,
+      "name": "Renan Ranelli",
+      "nickname": "",
+      "twitter": "renanranelli"
+    }
+  },
+  {
+    "speaker": {
+      "id": 79,
+      "name": "Rafael Rinaldi",
+      "nickname": "",
+      "twitter": "rafaelrinaldi"
+    }
+  },
+  {
+    "speaker": {
+      "id": 78,
+      "name": "Bernardo Chaves",
+      "nickname": "",
+      "twitter": "bernardo_amc"
+    }
+  },
+  {
+    "speaker": {
+      "id": 77,
+      "name": "Anderson Casimiro",
+      "nickname": "",
+      "twitter": "duodraco"
+    }
+  },
+  {
+    "speaker": {
+      "id": 76,
+      "name": "Eric Hideki",
+      "nickname": "",
+      "twitter": "erichideki"
+    }
+  },
+  {
+    "speaker": {
+      "id": 75,
+      "name": "Thiago Fernandes Massa",
+      "nickname": "",
+      "twitter": "th1agofm"
+    }
+  },
+  {
+    "speaker": {
+      "id": 74,
+      "name": "Ricardo de Cillo",
+      "nickname": "",
+      "twitter": "rcillo"
+    }
+  },
+  {
+    "speaker": {
+      "id": 73,
+      "name": "Marcio Mangar",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 72,
+      "name": "Thiago Diniz",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 71,
+      "name": "Renato Zannon",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 70,
+      "name": "Fabiano Beselga",
+      "nickname": "",
+      "twitter": "fbzga"
+    }
+  },
+  {
+    "speaker": {
+      "id": 69,
+      "name": "Rodrigo Martins",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 68,
+      "name": "Guilherme Nogueira",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 67,
+      "name": "Roger Leite",
+      "nickname": "",
+      "twitter": "rogerleite"
+    }
+  },
+  {
+    "speaker": {
+      "id": 66,
+      "name": "Caio Torres",
+      "nickname": "",
+      "twitter": "efreesen"
+    }
+  },
+  {
+    "speaker": {
+      "id": 65,
+      "name": "Lucas Mazza",
+      "nickname": null,
+      "twitter": "lucasmazza"
+    }
+  },
+  {
+    "speaker": {
+      "id": 64,
+      "name": "Rodrigo Flores",
+      "nickname": "",
+      "twitter": "rimflores"
+    }
+  },
+  {
+    "speaker": {
+      "id": 63,
+      "name": "Diego Souza",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 62,
+      "name": "Maurício Tollin",
+      "nickname": "",
+      "twitter": "bivisss"
+    }
+  },
+  {
+    "speaker": {
+      "id": 61,
+      "name": "Bruno Buccolo",
+      "nickname": null,
+      "twitter": "buccolo"
+    }
+  },
+  {
+    "speaker": {
+      "id": 60,
+      "name": "Éverton Ribeiro",
+      "nickname": null,
+      "twitter": "nuxlli"
+    }
+  },
+  {
+    "speaker": {
+      "id": 59,
+      "name": "Ricardo Yasuda",
+      "nickname": null,
+      "twitter": "shadowmaru"
+    }
+  },
+  {
+    "speaker": {
+      "id": 58,
+      "name": "Eduardo Maia",
+      "nickname": null,
+      "twitter": "emaiax"
+    }
+  },
+  {
+    "speaker": {
+      "id": 57,
+      "name": "Pablo Cantero",
+      "nickname": null,
+      "twitter": "pablocantero"
+    }
+  },
+  {
+    "speaker": {
+      "id": 56,
+      "name": "Bruno Croci",
+      "nickname": null,
+      "twitter": "crocidb"
+    }
+  },
+  {
+    "speaker": {
+      "id": 55,
+      "name": "Nilson Souto",
+      "nickname": "",
+      "twitter": "xissburg"
+    }
+  },
+  {
+    "speaker": {
+      "id": 54,
+      "name": "Rafael Massoni",
+      "nickname": "",
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 53,
+      "name": "Rinaldi Fonseca",
+      "nickname": null,
+      "twitter": "rinaldifonseca"
+    }
+  },
+  {
+    "speaker": {
+      "id": 52,
+      "name": "Tomas D'Steffano",
+      "nickname": null,
+      "twitter": "tomas_stefano"
+    }
+  },
+  {
+    "speaker": {
+      "id": 51,
+      "name": "Alberto Luis Souza",
+      "nickname": null,
+      "twitter": "alberto_souza"
+    }
+  },
+  {
+    "speaker": {
+      "id": 50,
+      "name": "Nelson M. Haraguchi",
+      "nickname": null,
+      "twitter": "n2m8"
+    }
+  },
+  {
+    "speaker": {
+      "id": 49,
+      "name": "Bruno Oliveira",
+      "nickname": null,
+      "twitter": "abstractj"
+    }
+  },
+  {
+    "speaker": {
+      "id": 48,
+      "name": "Rodrigo Serradura",
+      "nickname": null,
+      "twitter": "rodrigoserradura"
+    }
+  },
+  {
+    "speaker": {
+      "id": 47,
+      "name": "Rafael Rosa Fu",
+      "nickname": null,
+      "twitter": "rafaelrosafu"
+    }
+  },
+  {
+    "speaker": {
+      "id": 46,
+      "name": "Jean Carlo Nascimento",
+      "nickname": null,
+      "twitter": "osuissa"
+    }
+  },
+  {
+    "speaker": {
+      "id": 45,
+      "name": "Marcus Vinicius Ferreira",
+      "nickname": null,
+      "twitter": "darthmv"
+    }
+  },
+  {
+    "speaker": {
+      "id": 44,
+      "name": "João M. D. Moura",
+      "nickname": null,
+      "twitter": "joaomdmoura"
+    }
+  },
+  {
+    "speaker": {
+      "id": 43,
+      "name": "Plinio Balduino",
+      "nickname": null,
+      "twitter": "p_balduino"
+    }
+  },
+  {
+    "speaker": {
+      "id": 42,
+      "name": "Cainã Costa",
+      "nickname": null,
+      "twitter": "cfcosta_"
+    }
+  },
+  {
+    "speaker": {
+      "id": 41,
+      "name": "Amadeus Folego",
+      "nickname": null,
+      "twitter": "badosu_"
+    }
+  },
+  {
+    "speaker": {
+      "id": 40,
+      "name": "Gustavo Sales",
+      "nickname": null,
+      "twitter": "vatsu"
+    }
+  },
+  {
+    "speaker": {
+      "id": 39,
+      "name": "Willian Molinari",
+      "nickname": null,
+      "twitter": "pothix"
+    }
+  },
+  {
+    "speaker": {
+      "id": 37,
+      "name": "Plinio Balduino",
+      "nickname": null,
+      "twitter": "pbalduino"
+    }
+  },
+  {
+    "speaker": {
+      "id": 36,
+      "name": "Nando Vieira",
+      "nickname": null,
+      "twitter": "fnando"
+    }
+  },
+  {
+    "speaker": {
+      "id": 35,
+      "name": "Luis Cipriani",
+      "nickname": null,
+      "twitter": "lfcipriani"
+    }
+  },
+  {
+    "speaker": {
+      "id": 34,
+      "name": "Felipe Mattosinho",
+      "nickname": null,
+      "twitter": "felipejapm"
+    }
+  },
+  {
+    "speaker": {
+      "id": 33,
+      "name": "Ricardo Almeida",
+      "nickname": null,
+      "twitter": "almeidaricardo"
+    }
+  },
+  {
+    "speaker": {
+      "id": 31,
+      "name": "Fabio Akita",
+      "nickname": null,
+      "twitter": "akitaonrails"
+    }
+  },
+  {
+    "speaker": {
+      "id": 30,
+      "name": "Rubem Azenha",
+      "nickname": null,
+      "twitter": "razenha"
+    }
+  },
+  {
+    "speaker": {
+      "id": 28,
+      "name": "Cássio Marques",
+      "nickname": null,
+      "twitter": "cassiomarques"
+    }
+  },
+  {
+    "speaker": {
+      "id": 27,
+      "name": "Anderson Leite",
+      "nickname": null,
+      "twitter": "anderson_leite"
+    }
+  },
+  {
+    "speaker": {
+      "id": 26,
+      "name": "Hugo Baraúna",
+      "nickname": null,
+      "twitter": "hugobarauna"
+    }
+  },
+  {
+    "speaker": {
+      "id": 25,
+      "name": "Leonardo Bessa",
+      "nickname": "",
+      "twitter": "leobessa"
+    }
+  },
+  {
+    "speaker": {
+      "id": 24,
+      "name": "Thiago Scalone",
+      "nickname": "",
+      "twitter": "scalone"
+    }
+  },
+  {
+    "speaker": {
+      "id": 23,
+      "name": "Tomas D'Stefano",
+      "nickname": null,
+      "twitter": "tomas_stefano"
+    }
+  },
+  {
+    "speaker": {
+      "id": 22,
+      "name": "Douglas Campos",
+      "nickname": null,
+      "twitter": "qmx"
+    }
+  },
+  {
+    "speaker": {
+      "id": 21,
+      "name": "Thiago Ganzarolli",
+      "nickname": null,
+      "twitter": "tganzarolli"
+    }
+  },
+  {
+    "speaker": {
+      "id": 20,
+      "name": "Rodrigo Serradura",
+      "nickname": null,
+      "twitter": "serradura"
+    }
+  },
+  {
+    "speaker": {
+      "id": 19,
+      "name": "Ricardo Valeriano",
+      "nickname": null,
+      "twitter": "sr_valeriano"
+    }
+  },
+  {
+    "speaker": {
+      "id": 18,
+      "name": "Maurício Szabo",
+      "nickname": null,
+      "twitter": "mauricioszabo"
+    }
+  },
+  {
+    "speaker": {
+      "id": 17,
+      "name": "Lucas Catón",
+      "nickname": null,
+      "twitter": "lucascaton"
+    }
+  },
+  {
+    "speaker": {
+      "id": 16,
+      "name": "Felipe Oliveira",
+      "nickname": null,
+      "twitter": "scaphe"
+    }
+  },
+  {
+    "speaker": {
+      "id": 15,
+      "name": "Emerson Vinicius",
+      "nickname": null,
+      "twitter": "_dukex"
+    }
+  },
+  {
+    "speaker": {
+      "id": 14,
+      "name": "Rodrigo Yoshima",
+      "nickname": null,
+      "twitter": "rodrigoy"
+    }
+  },
+  {
+    "speaker": {
+      "id": 13,
+      "name": "Guilherme Silveira",
+      "nickname": null,
+      "twitter": "guilhermecaelum"
+    }
+  },
+  {
+    "speaker": {
+      "id": 12,
+      "name": "Alex Costa",
+      "nickname": null,
+      "twitter": ""
+    }
+  },
+  {
+    "speaker": {
+      "id": 11,
+      "name": "Felipe Vieira",
+      "nickname": null,
+      "twitter": "felipetio"
+    }
+  },
+  {
+    "speaker": {
+      "id": 10,
+      "name": "Cassio Marques",
+      "nickname": null,
+      "twitter": "cassiomarques"
+    }
+  },
+  {
+    "speaker": {
+      "id": 9,
+      "name": "Jonas Alves",
+      "nickname": null,
+      "twitter": "jonas_alves"
+    }
+  },
+  {
+    "speaker": {
+      "id": 8,
+      "name": "Fabio Kung",
+      "nickname": null,
+      "twitter": "fabiokung"
+    }
+  },
+  {
+    "speaker": {
+      "id": 6,
+      "name": "Carlos Brando",
+      "nickname": null,
+      "twitter": "carlosbrando"
+    }
+  },
+  {
+    "speaker": {
+      "id": 5,
+      "name": "Maurício Leal",
+      "nickname": null,
+      "twitter": "maltron"
+    }
+  },
+  {
+    "speaker": {
+      "id": 4,
+      "name": "Rodrigo Franco",
+      "nickname": null,
+      "twitter": "caffo"
+    }
+  },
+  {
+    "speaker": {
+      "id": 3,
+      "name": "Hugo Borges",
+      "nickname": null,
+      "twitter": "agaelebe"
+    }
+  },
+  {
+    "speaker": {
+      "id": 2,
+      "name": "Vinícius Baggio Fuentes",
+      "nickname": null,
+      "twitter": "vinibaggio"
+    }
+  },
+  {
+    "speaker": {
+      "id": 1,
+      "name": "Marcelo Castellani",
+      "nickname": null,
+      "twitter": "mfcastellani"
+    }
+  }
+]
