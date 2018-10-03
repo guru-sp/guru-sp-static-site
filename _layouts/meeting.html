@@ -1,0 +1,12 @@
+---
+layout: post
+---
+
+{% assign venue = site.data.venues.first %}
+
+<p>
+  <strong>Local:</strong>
+  {{ venue.name }}, {{venue.address }}
+</p>
+
+{{ content }}
