@@ -4,7 +4,8 @@ title: Encontros
 permalink: /encontros/
 ---
 
-<p>Veja aqui um histórico dos nossos encontros.</p>
+<p>Veja aqui um histórico dos nossos encontros passados.</p>
+<p>Para saber do próximo encontro acesse <a href="https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/">nossa página no Meetup</a>.</p>
 
 <ul class="meetings-list">
 {% for item in site.encontros reversed %}
