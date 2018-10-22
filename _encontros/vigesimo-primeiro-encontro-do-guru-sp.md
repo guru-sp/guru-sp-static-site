@@ -4,8 +4,10 @@ title:  'Vigésimo primeiro encontro do Guru-SP'
 date:   2012-01-28T11:00:00Z
 venue_id: 7
 talk_ids: 52 53 54 55 56
-sponsor_ids: 
+sponsor_ids:
 picasa_album_id: 5713153758942165953
+photo_album: https://photos.app.goo.gl/JVnKiQdihH71BbKz9
+photo_urls: https://lh3.googleusercontent.com/yb1qYDTVr1oHx-5KY2d7e_TfXHR9PhXnjRAKj8yoAt9BvNSLBFp_EMtRRW22rG-1hF7IandJ_YTNzbICXaB6U_mKujnH_bB5rUgSY6vYFmyjJkg-sLdKLwoHAmAKjT3-i-ui_6ajCDuUtGGlN285DTSbj65G7IES26I3zCLj4k6aJ3esL0K9JlTu3Y47End6ojm2j4XvHsrPXcB06gl5LUl73lcv09oIBcjjCLPLqwgMtvae-uzBmWqr8zg6Yq5jhr1GRXJFwR0eueYuwRm8fE0o3CNty1rFmdMH1-aTTQhvxGo4fzurW5Wrt1CqUJj9tzoW6mvqat-RjRqC8MIckQOoAaQ8B4clPXJ2srzkrlyCsvvk1LUkN4nAs_sFkar50NPXTMOVA8Bck3QxPdnqhMJpB_QuJpcyqFiMKD4GutwfRlwY6Ret2bBigoFnvVFN151-9UzSi-ckEug93j1OggfQCbL6oKTN4xtXg443JY9Pp29C4ixOpApkqOQyxfctkilY9KQiZ1_HDkbhF_-Fmn8DAFjuhU2p5jhrE-MxChWpcL22RaNe5XdqQqhi8uayusahersuWkWLceMepzbJKZpmSgya9alhJM-NugVV5qMse61tdRdzVWeg7Hy9g_68xCxyu4EDVmQObTRvTjXYOYV_IyRRPJJL46qPw2h4UitxGH0zyAno4V-c=w1600-h1200-no
 ---
 
 O primeiro encontro de 2012 ocorreu na Caelum e teve o coffee-break patrocinado pela Codeminer.

@@ -1,13 +1,16 @@
 ---
-layout: post
-title:  'Vigésimo encontro do Guru-SP'
-date:   2011-11-26T15:00:00Z
+layout: meeting
+title: 'Vigésimo encontro do Guru-SP'
+date: 2011-11-26T15:00:00Z
 venue_id: 8
 talk_ids: 57 58 59 60 61
-sponsor_ids: 
+sponsor_ids:
 picasa_album_id: 5680035898646145473
+album_url: https://photos.app.goo.gl/Xnar2HJpTR6nUwGs7
+album_photos: https://lh3.googleusercontent.com/edevK_xIf-Vw5APX23UnkWk7o_oCpVrOq3aeRDHgTBfws8j17zxuFWWtCmPXY8oxykNQvdIDncMfANeG0ryJuL4RJUt6gLDszGll5Wfq2mfJ88Gu3N1pIBpQhaDrqrVQs303XfnUd4fSepYocu9rtFwvaEatpwrbzZimc7EGKzixk5lmZHYlcqagX_GR6Mjo2MaUdNhRbyS_YQzkNJrElnsehpkMvSsbbPLwNMbmws3n4yy2DqBJmPXlqLFSaRmFdq_MrQZ6c3pXLJ_cop_tQx7XUu_B5sxlGEWNq8UGnKOpUOPTCufgOaitb-LenX3ZWdxlhmW6Xy245-wNmIOcGDPq2VBxEwVraCYrctpvdWDpG3H4lw7vxLnSZ9jrMp8IHcxaACOZWCNdKwd72nz3mye4PFoY_nxDMzxpXYf8mcHQumWF_1sUoD6mx-Ghs0CediiwFeD0N5k2hpiATiXpD2u1176tDASUc3bjzQNjjpAwEAswCqrb1S4ILaiJn42y3b-XnO8-lWy3IzFdBrDdypMRDZBKL97bjtVI3hgdCiK2LXnUoq-k-cSlhgT-E3k9i3OaCculGkoCWSxw38pmyASq6RyWt47-KADtdTUb8xhvv_wPqxecR6Es47kKCvlR_J6ODiK8ZxAfUWmm6g_nY1mQFePcuTz-EOlK_YPds6s2s_4JFIfRcTNk
 ---
 
 O último encontro de 2011 foi realizado no auditório da Abril.
 Contamos com palestras do Plínio Balduino, Jean Nascimento (Suissa), João Moura, Luis Cipriani e Marcus Vinícius.
+
 O coffe-break também foi patrocinado pela Abril.
