@@ -28,7 +28,7 @@ layout: default
     <figure>
       {% for photo in page.album_photos %}
       <p>
-        <a href="{{ page.album_url }}"><img src="{{ photo }}=w500" alt="Álbum de fotos do {{ post.title }}" /></a>
+        <a href="{{ page.album_url }}"><img src="{{ photo }}=w500" alt="Álbum de fotos do {{ page.title }}" /></a>
       </p>
       {% endfor %}
     </figure>

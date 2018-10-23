@@ -1,27 +1,27 @@
 ---
-layout: post
+layout: meeting
 title:  '41º Guru-SP na TruckPad'
 date:   2016-09-10T09:30:00Z
 venue_id: 22
-talk_ids: 
+talk_ids:
 sponsor_ids: 24 23 22
+album_url: https://goo.gl/photos/xvagkjL7skknEY1j8
+album_photos: https://lh3.googleusercontent.com/7nOw0rU_AAB657PnDlm-1soKTDMwBjtkpHzMVUClnsTXOCwv2gNtwf-whrYu-mtmLyPBPELkYoj3uGADr9IQAN4NvAseoz6bqA_YIuNCNIwAtmJ97yCK2x5aaUqYk4lr6mAvf0DhG8CTlq4pYCVeXHeF2q8rPY1j7obWLvBQh3w6H6fqG7s3SI7i1ysa3zlBxYEgBYEAKTpOlr-_5J08ggCyx7Mpoc6-izyTUzLT2RN-axW74dcvGJLa2hzIn8uH12NcAkHlK76jpXMbX41WeloYPHQMV5fsfRcKnu4Ylo-DFRix8SuOdb9Xs6mw9yKbWDnVMsHxONkKb7rad0bgtjU1na9PKSF2LfKeRdPMCKEXM37gE-89j37mMtpiSTKPaYznuxFmEWqiqAEp3BAYpxCiPPpSwPtu6e_CCTcT9Hz-hOCn8uwr30-vWQ-w_MMXLkZ3ancpdEk5BRVxRyobru903cPPsE6bxd4gkTdT_mIfx3XaV7RiAYW7eA3ibTGl1oTCqaSUIwqFfmR577rHwgxY59xECZgyLjKoqzjpXIR6rvA8SReNkAlyKZ8fXVzOUY9gB4S41nym8Zdfcv7FVGzTzqMqI1aJSj4paQUWhgx3ey7Iw6rmeYABcCrcWf3CDItTk1m4yNsNJ9kT84vjDBN4FxqOpOQyarOJSi40Mem1k6FakXGBxqVP
 
 ---
 
-<p>Encontro pr&eacute;-rubyconf Brasil.</p>
+Encontro pr&eacute;-rubyconf Brasil.
 
-<p>A realiza&ccedil;&atilde;o desse encontro foi&nbsp;poss&iacute;vel gra&ccedil;as a TruckPad, Maplink e Apontador, que est&atilde;o cedendo o espa&ccedil;o e tamb&eacute;m patrocinando o &nbsp;coffee-break do evento.</p>
+A realiza&ccedil;&atilde;o desse encontro foi&nbsp;poss&iacute;vel gra&ccedil;as a TruckPad, Maplink e Apontador, que cederam o espa&ccedil;o e tamb&eacute;m patrocinaram o &nbsp;coffee-break do evento.
 
-<p>A seguir a agenda do encontro:</p>
+A seguir as palestras apresentadas nesse encontro:
 
-<p>9 - Caf&eacute; da manh&atilde;<br />
-9h30 - Rails Girls - Camila<br />
-9h50&nbsp;- U&aacute;i Elixir? (Why Elixir) - Jonathan<br />
-10h00 - Sua aplica&ccedil;&atilde;o Rails como um servi&ccedil;o systemd - Daniel<br />
-10h30 - Usando containers para acelerar o desenvolvimento - Rafael<br />
-11h00 - Criando uma CLI com mruby-cli - Thiago<br />
-11h30 -&nbsp;Como construir uma API de respeito com Rails - Alex<br />
-12h00 - coffee-break refor&ccedil;ado<br />
-12h30 -&nbsp;Brincando com reconhecimento de imagens com Ruby e Pok&eacute;mon - Diogo<br />
-13h00 -&nbsp;Ruby Games RPG MAKER - Renato FrancoTemos espa&ccedil;o para 50 pessoas.</p>
+  - Brincando com reconhecimento de imagens com Ruby e Pok&eacute;mon - Diogo
+  - Rails Girls - Camila Campos
+  - Sua aplica&ccedil;&atilde;o Rails como um servi&ccedil;o systemd - Daniel Libanori
+  - Usando containers para acelerar o desenvolvimento - Rafael França
+  - Criando uma CLI com mruby-cli - Thiago Scalone
+  - Como construir uma API de respeito com Rails - Alex "VKO" Oliveira
+  - Ruby Games com RPG MAKER - Renato Franco
 
+[Assista aqui as palestras apresentadas nesse encontro.](https://www.youtube.com/watch?v=hmjg29D6RLU)
