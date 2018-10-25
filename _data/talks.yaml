@@ -1,0 +1,1897 @@
+---
+- description: ''
+  id: 174
+  slides_link: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/fH6NCaHlcuwNbo"
+    width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width:
+    100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a
+    href="//www.slideshare.net/rochacbruno/escrevendo-modulos-python-com-rust" title="Escrevendo
+    modulos python com rust" target="_blank">Escrevendo modulos python com rust</a>
+    </strong> de <strong><a href="https://www.slideshare.net/rochacbruno" target="_blank">Bruno
+    Rocha</a></strong> </div>'
+  title: Escrevendo modulos python com rust
+  video_link: ''
+  meeting:
+    id: 50
+  speakers:
+  - id: 104
+- description: ''
+  id: 173
+  slides_link: https://qconsp.com/system/files/presentation-slides/rust_qcon.pdf
+  title: 'Rust: Reach further'
+  video_link: ''
+  meeting:
+    id: 50
+  speakers:
+  - id: 103
+- description: ''
+  id: 172
+  slides_link: ''
+  title: Module#prepend, uma jóia perdida
+  video_link: ''
+  meeting:
+    id: 50
+  speakers:
+  - id: 80
+- description: ''
+  id: 171
+  slides_link: ''
+  title: CMS with JAMstack
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/BanRsBgus4Q"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  meeting:
+    id: 49
+  speakers:
+  - id: 60
+- description: ''
+  id: 170
+  slides_link: ''
+  title: Hybrid App Structure
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/Tq8p6r9J3rY"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  meeting:
+    id: 49
+  speakers:
+  - id: 102
+- description: ''
+  id: 169
+  slides_link: ''
+  title: Imutabilidade em Ruby
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/2hioq6dohtI"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  meeting:
+    id: 49
+  speakers:
+  - id: 18
+- description: ''
+  id: 168
+  slides_link: <script async class="speakerdeck-embed" data-id="76590e39451b493d9bf75bc9bece47f2"
+    data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  title: 'Rails & ReactJS: use case e estratégicas'
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/dJLo_KImy-Q"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  meeting:
+    id: 49
+  speakers: []
+- description: ''
+  id: 167
+  slides_link: <script async class="speakerdeck-embed" data-id="706cb86857574eb4ac9aaf5add99d39e"
+    data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Unboxing Data Science
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/SQNv_gHseVc"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  meeting:
+    id: 49
+  speakers:
+  - id: 44
+- description: ''
+  id: 166
+  slides_link: ''
+  title: Programação funcional que funciona
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/w1OwYWe4UFo"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  meeting:
+    id: 48
+  speakers:
+  - id: 20
+- description: ''
+  id: 165
+  slides_link: ''
+  title: 'Changelogs: Porque usar e como manter'
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/P7dZt_jFiKw"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  meeting:
+    id: 48
+  speakers:
+  - id: 100
+  - id: 99
+- description: <a href="https://github.com/fguisso">https://github.com/fguisso</a>
+  id: 164
+  slides_link: <iframe src="https://fguisso.github.io/btc-dev-bitconf/#/" frameborder="0"
+    width="560" height="315"></iframe
+  title: Bitcoin para desenvolvedores
+  video_link: ''
+  meeting:
+    id: 48
+  speakers:
+  - id: 98
+- description: ''
+  id: 163
+  slides_link: <script async class="speakerdeck-embed" data-id="75e80d01c4734b04aff4aefe202c4d04"
+    data-ratio="1.67" src="//speakerdeck.com/assets/embed.js" width="560" height="315"
+    t></script>
+  title: Testes automatizados e a prática antes da teoria
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/256khach8b0"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  meeting:
+    id: 48
+  speakers:
+  - id: 65
+- description: ''
+  id: 162
+  slides_link: ''
+  title: Infraestrutura como código com Terraform
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/plh63LZXyz4"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  meeting:
+    id: 48
+  speakers:
+  - id: 1
+- description: ''
+  id: 161
+  slides_link: ''
+  title: Aplicando o Método Científico ao Desenvolvimento de Software
+  video_link: ''
+  meeting:
+    id: 44
+  speakers:
+  - id: 92
+- description: ''
+  id: 160
+  slides_link: ''
+  title: Boas práticas com api de coleções em Ruby & Elixir
+  video_link: ''
+  meeting:
+    id: 44
+  speakers:
+  - id: 80
+- description: ''
+  id: 159
+  slides_link: ''
+  title: Meet Vue.js
+  video_link: ''
+  meeting:
+    id: 44
+  speakers:
+  - id: 97
+- description: ''
+  id: 158
+  slides_link: ''
+  title: Turbolinks + PWA = Eu não posso acreditar que não é nativo!
+  video_link: ''
+  meeting:
+    id: 44
+  speakers:
+  - id: 20
+- description: ''
+  id: 157
+  slides_link: ''
+  title: Elixir com um Rubista
+  video_link: ''
+  meeting:
+    id: 44
+  speakers:
+  - id: 44
+- description: ''
+  id: 156
+  slides_link: ''
+  title: Meet Vue.js
+  video_link: ''
+  meeting:
+    id: 44
+  speakers:
+  - id: 97
+- description: Apresentador por Fernando Kakimoto
+  id: 155
+  slides_link: ''
+  title: Desafios na re-escrita de uma plataforma de +15 anos em Ruby on Rails na
+    Bionexo
+  video_link: ''
+  meeting:
+    id: 44
+  speakers: []
+- description: ''
+  id: 154
+  slides_link: ''
+  title: 'Não tema o GIL: programação concorrente em Ruby'
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/kiaZd8dmbtI?rel=0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 39
+  speakers:
+  - id: 80
+- description: ''
+  id: 153
+  slides_link: ''
+  title: A arte da simplicidade com Clojure
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/_kGwRVuH6mU?rel=0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 39
+  speakers:
+  - id: 18
+- description: ''
+  id: 152
+  slides_link: ''
+  title: The Evils of Duplication
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/piLKtXdfhx4?rel=0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 39
+  speakers:
+  - id: 95
+- description: ''
+  id: 151
+  slides_link: ''
+  title: Sobrevivendo ao Black Friday com AWS Opsworks
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/Etdr861ypSU?rel=0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 39
+  speakers:
+  - id: 50
+- description: ''
+  id: 150
+  slides_link: <script async class="speakerdeck-embed" data-id="0e8fdb7847b342f8a5b4b76c0da0550a"
+    data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  title: How Sprocket Works
+  video_link: https://youtu.be/KHWYHZqfP8Y?t=17247
+  meeting:
+    id: 41
+  speakers:
+  - id: 88
+- description: ''
+  id: 149
+  slides_link: <script async class="speakerdeck-embed" data-id="c23f45851c394f78b7f13eeed3057e25"
+    data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  title: 'Minitest: voltando ao básico sobre testes'
+  video_link: https://youtu.be/KHWYHZqfP8Y?t=14302
+  meeting:
+    id: 41
+  speakers:
+  - id: 65
+- description: ''
+  id: 148
+  slides_link: ''
+  title: Arquitetura, Design & Ruby
+  video_link: https://youtu.be/KHWYHZqfP8Y?t=11389
+  meeting:
+    id: 41
+  speakers:
+  - id: 66
+- description: ''
+  id: 147
+  slides_link: <script async class="speakerdeck-embed" data-id="0d90c6c234884e8ab1d9b648fe8e5626"
+    data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  title: O quê mudou no Rails 5
+  video_link: https://youtu.be/KHWYHZqfP8Y?t=8341
+  meeting:
+    id: 41
+  speakers:
+  - id: 36
+- description: ''
+  id: 146
+  slides_link: <script async class="speakerdeck-embed" data-id="0821720e7f634f699538ac948ee2ca66"
+    data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Por que eu não aprendi Rails?
+  video_link: https://youtu.be/KHWYHZqfP8Y?t=3406
+  meeting:
+    id: 41
+  speakers: []
+- description: ''
+  id: 145
+  slides_link: <script async class="speakerdeck-embed" data-id="57bc7f06c3fb4de69082f3c68e9759dd"
+    data-ratio="1.33159947984395" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Sonic Pi - fazendo música com Ruby
+  video_link: https://youtu.be/KHWYHZqfP8Y?t=25m7s
+  meeting:
+    id: 41
+  speakers: []
+- description: ''
+  id: 144
+  slides_link: <script async class="speakerdeck-embed" data-id="6b59b4ca55e54e01ba95c99007260194"
+    data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Porque usar PostgreSQL
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/VWtvJsjpOjY?rel=0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 40
+  speakers:
+  - id: 36
+- description: ''
+  id: 143
+  slides_link: <script async class="speakerdeck-embed" data-id="83e185cc13654b6ea4c6aab64f22fc1a"
+    data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Do Ruby para o Elixir. E agora?
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/dQPGk6h59zs?rel=0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 40
+  speakers:
+  - id: 80
+- description: ''
+  id: 142
+  slides_link: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/BYAUceZiSvKsxK"
+    width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width:
+    100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a
+    href="//www.slideshare.net/PotHix/mesos-57503780" title="Mesos" target="_blank">Mesos</a>
+    </strong> de <strong><a target="_blank" href="//www.slideshare.net/PotHix">Willian
+    Molinari</a></strong> </div>'
+  title: Apache Mesos
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/t2olaBrgR9A?rel=0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 40
+  speakers:
+  - id: 39
+- description: ''
+  id: 141
+  slides_link: <script async class="speakerdeck-embed" data-id="866ae21ba85545bcad43efc768d9d780"
+    data-ratio="1.37265415549598" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Nerves , Elixir on Embedded Systems
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/cjYJ5CQbhy4?rel=0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 40
+  speakers:
+  - id: 90
+- description: ''
+  id: 140
+  slides_link: <script async class="speakerdeck-embed" data-id="01a1045d342e49c687ab788d0e2ad135"
+    data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Testando sua aplicação Web Phoenix
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/8jbWKMZ1FrU?rel=0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 40
+  speakers:
+  - id: 89
+- description: ''
+  id: 139
+  slides_link: <script async class="speakerdeck-embed" data-id="f4cf3f6cfe854c10a459def15607e47d"
+    data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Organização pessoal e produtividade
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/kDUEvXv_QjU?rel=0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 40
+  speakers:
+  - id: 59
+- description: ''
+  id: 138
+  slides_link: ''
+  title: O que devs precisam saber sobre envio de Emails
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/xXIezG4-8Oc"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 38
+  speakers:
+  - id: 86
+- description: ''
+  id: 137
+  slides_link: ''
+  title: " Bootcamps de programação web"
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/jTuiAtc068U"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 38
+  speakers:
+  - id: 87
+- description: ''
+  id: 136
+  slides_link: ''
+  title: Medindo performance do seu código Ruby
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/xoOAkbP3jFc"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 38
+  speakers:
+  - id: 88
+- description: ''
+  id: 135
+  slides_link: ''
+  title: Conhecendo a Shopify
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/gR6A64gVRxw"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 38
+  speakers:
+  - id: 85
+- description: ''
+  id: 134
+  slides_link: ''
+  title: Integração discreta
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/5oqaL-6dLAg"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 38
+  speakers:
+  - id: 83
+- description: ''
+  id: 133
+  slides_link: ''
+  title: AMS, API, RAILS and a developer love story
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/lzn3icOUArU"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 38
+  speakers:
+  - id: 44
+- description: ''
+  id: 132
+  slides_link: ''
+  title: Conhecendo a Vizir Software Studio
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/LX23yG89w04"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 38
+  speakers:
+  - id: 84
+- description: ''
+  id: 131
+  slides_link: ''
+  title: ES6 para Rubistas e Mruby
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/hNVHd2Zf6is?list=PLiWHHufbVh1gwuIG8Gjjbl6iTC2mjjlga"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 37
+  speakers:
+  - id: 24
+- description: ''
+  id: 130
+  slides_link: ''
+  title: Do monolítico a arquitetura distribuída
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/tHS2ZeYPcXE?list=PLiWHHufbVh1gwuIG8Gjjbl6iTC2mjjlga"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 37
+  speakers:
+  - id: 81
+- description: ''
+  id: 129
+  slides_link: <script async class="speakerdeck-embed" data-id="c2bc2ce33a4c4f82bdda73835bff21ef"
+    data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  title: OOP Hipster - Conceitos de OO fora do mainstream
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/hpP8MiLVd8k?list=PLiWHHufbVh1gwuIG8Gjjbl6iTC2mjjlga"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 37
+  speakers:
+  - id: 80
+- description: ''
+  id: 128
+  slides_link: <script async class="speakerdeck-embed" data-id="b7873dc4e6d64c2dbe6c81ea870de4fd"
+    data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Desenvolvimento de Games com Phaser.io + Opal
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/kpbrkvyU-RI?list=PLiWHHufbVh1gwuIG8Gjjbl6iTC2mjjlga"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 37
+  speakers:
+  - id: 94
+- description: ''
+  id: 127
+  slides_link: ''
+  title: Twitter+Redis+Bitcoins+Ruby+Nuvem para aprendizado e diversão
+  video_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/HQigeNJZhq4?list=PLiWHHufbVh1gwuIG8Gjjbl6iTC2mjjlga"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 37
+  speakers:
+  - id: 93
+- description: ''
+  id: 126
+  slides_link: ''
+  title: Python para programados Ruby
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/Q0Dz0R7GUZU"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 35
+  speakers:
+  - id: 76
+- description: ''
+  id: 125
+  slides_link: ''
+  title: Dicas de processamento de imagens
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/96hRiIHQxmo"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 35
+  speakers:
+  - id: 75
+- description: ''
+  id: 124
+  slides_link: ''
+  title: PostgreSQL Query Tuning
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/CZIWR_EcGfE"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 35
+  speakers:
+  - id: 78
+- description: ''
+  id: 123
+  slides_link: ''
+  title: Apresentando o Rubymine
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/3xVUOcpvY2U"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 35
+  speakers: []
+- description: Algumas dicas e ferramentas de produtividade.
+  id: 122
+  slides_link: ''
+  title: Produtividade
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/eaOOwLEEKRk"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 35
+  speakers:
+  - id: 70
+- description: Por que você não deve usar ponto flutuante para representar dinheiro.
+  id: 121
+  slides_link: ''
+  title: Floating point
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/4G7umUOzyog"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 35
+  speakers:
+  - id: 74
+- description: Um pouco sobre o funcionamento do Devise e algumas APIs e funcionalidades
+    pouco conhecidas.
+  id: 118
+  slides_link: ''
+  title: O que o Devise está fazendo enquanto você não está olhando
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/xW2XJ8tp6UM"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 35
+  speakers:
+  - id: 65
+- description: ''
+  id: 116
+  slides_link: ''
+  title: Time is Money
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/EoNEhm9BooE"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 34
+  speakers:
+  - id: 74
+- description: ''
+  id: 114
+  slides_link: ''
+  title: Azk - Ferramenta Open Source Para Configurar Ambientes De Desenvolvimento
+    Em Segundos Em Vez De Horas
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/bBAsK04ip5w"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 34
+  speakers:
+  - id: 60
+- description: ''
+  id: 113
+  slides_link: ''
+  title: 'Why Should I Care About Clean Architecture? '
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/rTu77HmfF-A"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 34
+  speakers:
+  - id: 70
+- description: ''
+  id: 112
+  slides_link: ''
+  title: Processo De Deploy - Awsdeploy
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/2F3vLKEK6rE"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 34
+  speakers:
+  - id: 73
+- description: ''
+  id: 110
+  slides_link: ''
+  title: 'Abril Pro Ruby: A Conferência Tropical De Ruby'
+  video_link: ''
+  meeting:
+    id: 34
+  speakers:
+  - id: 72
+- description: 'Pensamentos pós-rubyconf: estamos pulando de cabeça em novas tecnologias
+    e deixando de lado o legado? Estamos (ab)usando novas tecnologias quando poderiamos
+    usar tecnologias já testadas e consolidadas, e que fazem a mesma coisa? Estamos
+    criando um ecossistema que apenas programadores Ruby utilizam, e indiretamente
+    (ou diretamente) dificultando ou inviabilizando softwares legados?'
+  id: 108
+  slides_link: ''
+  title: The Bleeding Edge
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/d0pa2nf8hXE"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 32
+  speakers:
+  - id: 18
+- description: Uma visão detalhada de como funciona os sistemas distribuídos do projeto
+    OpenRuko (https://github.com/openruko) um "Open Source Heroku Clone / Implementation".
+    Um pouco sobre as siglas do Cloud, passado e presente, arquitetura, filosofias
+    e boas práticas para o seu app ser "cloud like".
+  id: 107
+  slides_link: http://www.slideshare.net/rogerleite14/paa-s-26212382
+  title: Desconstruindo um PaaS como o Heroku
+  video_link: ''
+  meeting:
+    id: 32
+  speakers:
+  - id: 67
+- description: Você vai ver como saímos de um deploy Big-Bang por semana para um processo
+    de Continuous Delivery com vários deploys por dia. O foco será em nosso processo
+    de aceitação, que evoluiu de uma pequena suíte de Selenium para uma suíte de mais
+    de 200 casos de teste escritos com Watir e RSpec que rodam em 5 minutos num cluster
+    Jenkins.
+  id: 106
+  slides_link: ''
+  title: Continuous Delivery com Jenkins e Watir
+  video_link: ''
+  meeting:
+    id: 32
+  speakers:
+  - id: 68
+- description: Como você lida com as dependências de seu frontend? Se você não faz
+    isso de uma maneira automatizada, está perdendo tempo. Veja como o Bower pode
+    ajudá-lo a manter as dependências de interface sobre controle sem muito esforço.
+  id: 105
+  slides_link: <script async class="speakerdeck-embed" data-id="f9a70830ff200130a0e55aefa155fc7b"
+    data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Usando o Bower
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/agkyBoRSB_0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 32
+  speakers:
+  - id: 36
+- description: 'Um pouco sobre Javascript assíncrono: futures e promises'
+  id: 104
+  slides_link: <script async class="speakerdeck-embed" data-id="028a43b002b401317cac6ed52b662488"
+    data-ratio="1.2896725440806" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Javascript Assíncrono
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/4grhwpQSit0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 32
+  speakers:
+  - id: 2
+- description: ''
+  id: 103
+  slides_link: ''
+  title: Plug-and-Play Gamification Platforms
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/vRrd8aQsv_E"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 27
+  speakers:
+  - id: 44
+- description: Uma lightining para mostrar como foi brincar com XMPP para um bot simples
+    que tive que fazer para lidar com o leela-server. Pretendo mostrar a simplicidade
+    do blather Os problemas que eu enfrentei E como facilitar para quem quer fazer
+    um.
+  id: 102
+  slides_link: ''
+  title: Ruby e XMPP
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/HDsxF0bCInI"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 27
+  speakers:
+  - id: 39
+- description: De onde veio e pra onde vai? Será que é só mais uma implementação de
+    Ruby?
+  id: 101
+  slides_link: ''
+  title: MRuby e RiteVM
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/QP0tdK3hdPM"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 27
+  speakers:
+  - id: 24
+- description: Uma das grandes dificuldades de se trabalhar em diferentes projetos
+    é manter todo o ambiente configurado. E quando um novo funcionário é contratado?
+    E quando você comprar uma nova máquina? Ou, ainda, e se você estiver trabalhando
+    no Windows? Embora existam muitas soluções, irei mostrar como o Vagrant pode ajudar
+    a resolver este problema
+  id: 100
+  slides_link: ''
+  title: Conhecendo o Vagrant
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/61U82WCUTHI"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 27
+  speakers:
+  - id: 36
+- description: ''
+  id: 99
+  slides_link: ''
+  title: Arquitetura e Activerepository
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/baLfjJ0DZV0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 31
+  speakers:
+  - id: 66
+- description: ''
+  id: 98
+  slides_link: ''
+  title: 'Boxen: Configurando o seu ambiente de desenvolvimento'
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/w96bPV5sp_Q"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 31
+  speakers:
+  - id: 65
+- description: ''
+  id: 97
+  slides_link: ''
+  title: Testando APis
+  video_link: <iframe width="560" height="315" src="//www.youtube.com/embed/f5ReRP5ouWQ"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 31
+  speakers:
+  - id: 64
+- description: Nessa palestra Pothix e Diego Souza falam um pouco sobre técnicas de
+    programação para jogos em rede.
+  id: 94
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/15490611"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen
+    webkitallowfullscreen mozallowfullscreen> </iframe>'
+  title: Game Network Programming
+  video_link: <iframe src="http://blip.tv/play/hOdBg5PuBQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBg5PuBQI" style="display:none"></embed>
+  meeting:
+    id: 29
+  speakers:
+  - id: 63
+  - id: 39
+- description: ''
+  id: 93
+  slides_link: ''
+  title: Desenvolvimento de Jogos e o Bubblin
+  video_link: <iframe src="http://blip.tv/play/hOdBg5HYaAA.html?p=1" width="1280"
+    height="750" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBg5HYaAA" style="display:none"></embed>
+  meeting:
+    id: 29
+  speakers:
+  - id: 62
+  - id: 27
+- description: ''
+  id: 92
+  slides_link: <iframe width="853" height="480" src="http://www.youtube.com/embed/DbHdWCCgnFw"
+    frameborder="0" allowfullscreen></iframe>
+  title: Como processar 6 milhões de imagem em uma noite
+  video_link: ''
+  meeting:
+    id: 30
+  speakers:
+  - id: 61
+- description: ''
+  id: 91
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/18758349"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen
+    webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px">
+    <strong> <a href="http://www.slideshare.net/nuxlli/the-twelve-factor-apps-and-openruko"
+    title="The twelve factor apps and openruko" target="_blank">The twelve factor
+    apps and openruko</a> </strong> from <strong><a href="http://www.slideshare.net/nuxlli"
+    target="_blank">Éverton Ribeiro</a></strong> </div>'
+  title: The Twelve Factor App and Openruko
+  video_link: <iframe width="853" height="480" src="http://www.youtube.com/embed/0lvgznQELXQ"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 30
+  speakers:
+  - id: 60
+- description: ''
+  id: 90
+  slides_link: <script async class="speakerdeck-embed" data-id="dba6903086770130146622000a9d056e"
+    data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  title: O que mudou no Ruby 2.0
+  video_link: <iframe width="853" height="480" src="http://www.youtube.com/embed/KQTSQ7etTQI"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 30
+  speakers:
+  - id: 36
+- description: Ricardo Yasuda (Shadow) fala sobre sua experiência em internacionalizar
+    a aplicação Rails por trás da rede de academias Smarttfit.
+  id: 89
+  slides_link: <script async class="speakerdeck-embed" data-id="cf4317f06af80130866412313d1860bb"
+    data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
+  title: " Internacionalização de uma aplicação Rails de grande porte"
+  video_link: <iframe width="560" height="315" src="http://www.youtube.com/embed/FD74TMBnd1Q"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 28
+  speakers:
+  - id: 59
+- description: Eduardo Maia fala sobre a criação, o teste e o deploy de engines no
+    Rails 3.
+  id: 88
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/17146023"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen
+    webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px">
+    <strong> <a href="http://www.slideshare.net/zigotto/engines-onrails" title="Engine
+    on Rails" target="_blank">Engine on Rails</a> </strong> from <strong><a href="http://www.slideshare.net/zigotto"
+    target="_blank">Zigotto Tecnologia</a></strong> </div>'
+  title: Engines com Rails 3
+  video_link: <iframe width="560" height="315" src="http://www.youtube.com/embed/IQzo4OV5PBw"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 28
+  speakers:
+  - id: 58
+- description: Nando Vieira da algumas dicas de como deixar as views da sua aplicação
+    Rails mais 'limpas', removendo a lógica das mesmas.
+  id: 87
+  slides_link: <script async class="speakerdeck-embed" data-id="3a3edbb06b0e013086e822000a8f982b"
+    data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Limpando as Views
+  video_link: <iframe width="560" height="315" src="http://www.youtube.com/embed/k3fSYC-A6V0"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 28
+  speakers:
+  - id: 36
+- description: Pablo Cantero fala sobre sua experiência na integração de uma aplicação
+    com recursos de voz e SMS usando o Twilio.
+  id: 86
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/17065351"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen
+    webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px">
+    <strong> <a href="http://www.slideshare.net/PabloHenrique15/look-who-is-talking"
+    title="Look who is talking" target="_blank">Look who is talking</a> </strong>
+    from <strong><a href="http://www.slideshare.net/PabloHenrique15" target="_blank">Pablo
+    Cantero</a></strong> </div>'
+  title: Olha quem está falando
+  video_link: <iframe width="560" height="315" src="http://www.youtube.com/embed/d9fvd_OErc8"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 28
+  speakers:
+  - id: 57
+- description: Ricardo Valeriano explica um pouco sobre concorrência, paralelismo
+    e como esses conceitos se aplicam ao Ruby.
+  id: 85
+  slides_link: <script async class="speakerdeck-embed" data-id="e0fb31e06aaf0130747512313d140c86"
+    data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Concorrência, paralelismo e o Ruby
+  video_link: <iframe width="560" height="315" src="http://www.youtube.com/embed/FPi-_rCqXCM"
+    frameborder="0" allowfullscreen></iframe>
+  meeting:
+    id: 28
+  speakers:
+  - id: 19
+- description: ''
+  id: 80
+  slides_link: ''
+  title: 'Jogos online: HTML5, flash e outros plugins'
+  video_link: <iframe src="http://blip.tv/play/hOdBg5C6WQA.html?p=1" width="1280"
+    height="750" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBg5C6WQA" style="display:none"></embed>
+  meeting:
+    id: 29
+  speakers:
+  - id: 56
+- description: Nilson souto fala sobre o funcionamento da simulação de física em jogos
+    e sobre alguma engines de física.
+  id: 79
+  slides_link: ''
+  title: Simulações físicas em Games
+  video_link: <iframe src="http://blip.tv/play/hOdBg5CiYgA.html?p=1" width="1280"
+    height="750" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBg5CiYgA" style="display:none"></embed>
+  meeting:
+    id: 29
+  speakers:
+  - id: 55
+- description: Willian Molinari (Pothix) e Rafael Massoni falam como foi o desenvolvimento
+    das primeiras fases do jogo Skeleton Jigsaw.
+  id: 78
+  slides_link: <a href="https://speakerdeck.com/rmasoni/gamedev-com-html5">https://speakerdeck.com/rmasoni/gamedev-com-html5</a>
+  title: Gamedev com HTML5
+  video_link: <iframe src="http://blip.tv/play/hOdBg5CsHAA.html?p=1" width="1280"
+    height="750" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBg5CsHAA" style="display:none"></embed>
+  meeting:
+    id: 29
+  speakers:
+  - id: 54
+- description: ''
+  id: 77
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/9117181"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Criando um framework com Rack em 10 minutos
+  video_link: <iframe src="http://blip.tv/play/hOdBgtHzHQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtHzHQI" style="display:none"></embed>
+  meeting:
+    id: 19
+  speakers:
+  - id: 53
+- description: ''
+  id: 76
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/8900412"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe> '
+  title: Machinist caching
+  video_link: <iframe src="http://blip.tv/play/hOdBgtH2eQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtH2eQI" style="display:none"></embed>
+  meeting:
+    id: 19
+  speakers:
+  - id: 52
+- description: ''
+  id: 75
+  slides_link: ''
+  title: JRuby
+  video_link: <iframe src="http://blip.tv/play/hOdBgtH4KAI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtH4KAI" style="display:none"></embed>
+  meeting:
+    id: 19
+  speakers:
+  - id: 22
+- description: ''
+  id: 74
+  slides_link: ''
+  title: Scala
+  video_link: <iframe src="http://blip.tv/play/hOdBgtKGcwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtKGcwI" style="display:none"></embed>
+  meeting:
+    id: 19
+  speakers:
+  - id: 51
+- description: ''
+  id: 73
+  slides_link: ''
+  title: 'Usando Paypal com Ruby: todos chora'
+  video_link: <iframe src="http://blip.tv/play/hOdBgtDhOgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtDhOgI" style="display:none"></embed>
+  meeting:
+    id: 18
+  speakers:
+  - id: 36
+- description: ''
+  id: 72
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/9247059"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: 'Dividir para conquistar: Escalando e otimizando projetos legados '
+  video_link: <iframe src="http://blip.tv/play/hOdBgtDgXgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtDgXgI" style="display:none"></embed>
+  meeting:
+    id: 18
+  speakers:
+  - id: 50
+- description: ''
+  id: 71
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/8672320"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: 'Torquebox: O melhor dos dois mundos'
+  video_link: <iframe src="http://blip.tv/play/hOdBgtDYKgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtDYKgI" style="display:none"></embed>
+  meeting:
+    id: 18
+  speakers:
+  - id: 49
+- description: ''
+  id: 70
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/8391371"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: 'VCR: Escrevendo testes para clientes de APIs de forma inteligente'
+  video_link: <iframe src="http://player.vimeo.com/video/25419576" width="500" height="281"
+    frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <p><a href="http://vimeo.com/25419576">Guru SP (16° encontro) VCR - por Cássio
+    Marques</a> from <a href="http://vimeo.com/user4206168">Lucas Cat&oacute;n</a>
+    on <a href="http://vimeo.com">Vimeo</a>.</p>
+  meeting:
+    id: 17
+  speakers:
+  - id: 28
+- description: ''
+  id: 69
+  slides_link: ''
+  title: 'Outpost: Monitore seus serviços com Ruby Puro'
+  video_link: <iframe src="http://blip.tv/play/hOdBgtDYFwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtDYFwI" style="display:none"></embed>
+  meeting:
+    id: 17
+  speakers:
+  - id: 2
+- description: ''
+  id: 68
+  slides_link: ''
+  title: Google BigQuery
+  video_link: <iframe src="http://blip.tv/play/hOdBgtDTUAI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtDTUAI" style="display:none"></embed>
+  meeting:
+    id: 17
+  speakers:
+  - id: 11
+- description: ''
+  id: 67
+  slides_link: ''
+  title: Integração de Aplicações Rails com Facebook
+  video_link: <iframe src="http://blip.tv/play/hOdBgtDTNwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtDTNwI" style="display:none"></embed>
+  meeting:
+    id: 17
+  speakers:
+  - id: 48
+- description: ''
+  id: 66
+  slides_link: ''
+  title: Design Unpatterns
+  video_link: <iframe src="http://blip.tv/play/hOdBgtuaLwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgtuaLwI" style="display:none"></embed>
+  meeting:
+    id: 20
+  speakers:
+  - id: 18
+- description: ''
+  id: 65
+  slides_link: ''
+  title: Refatoração de Código
+  video_link: <iframe src="http://blip.tv/play/hOdBgt7BBAI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgt7BBAI" style="display:none"></embed>
+  meeting:
+    id: 20
+  speakers:
+  - id: 28
+- description: ''
+  id: 64
+  slides_link: ''
+  title: Refatorando o Wyrd
+  video_link: <iframe src="http://blip.tv/play/hOdBgt7HbAI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgt7HbAI" style="display:none"></embed>
+  meeting:
+    id: 20
+  speakers:
+  - id: 2
+- description: ''
+  id: 63
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/1255469"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Datamapper
+  video_link: ''
+  meeting:
+    id: 5
+  speakers:
+  - id: 47
+- description: ''
+  id: 62
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/1746844"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Desvendando o git
+  video_link: ''
+  meeting:
+    id: 5
+  speakers:
+  - id: 22
+- description: ''
+  id: 61
+  slides_link: ''
+  title: Webstorage
+  video_link: <iframe src="http://blip.tv/play/hOdBgufdTgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgufdTgI" style="display:none"></embed>
+  meeting:
+    id: 21
+  speakers:
+  - id: 46
+- description: ''
+  id: 60
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/10365453"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/lfcipriani/fearless-http-requests-abuse"
+    title="Fearless HTTP requests abuse" target="_blank">Fearless HTTP requests abuse</a>
+    </strong> from <strong><a href="http://www.slideshare.net/lfcipriani" target="_blank">Luis
+    Cipriani</a></strong> </div>'
+  title: Abusando das Requisições HTTP sem Medo
+  video_link: <iframe src="http://blip.tv/play/hOdBgubsdgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgubsdgI" style="display:none"></embed>
+  meeting:
+    id: 21
+  speakers:
+  - id: 35
+- description: ''
+  id: 59
+  slides_link: ''
+  title: Virtualbox e Kickstart
+  video_link: <iframe src="http://blip.tv/play/hOdBgua8HQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgua8HQI" style="display:none"></embed>
+  meeting:
+    id: 21
+  speakers:
+  - id: 45
+- description: ''
+  id: 58
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/10235515"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: WebSocket
+  video_link: <iframe src="http://blip.tv/play/hOdBguX7bwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBguX7bwI" style="display:none"></embed>
+  meeting:
+    id: 21
+  speakers:
+  - id: 44
+- description: ''
+  id: 57
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/13017921"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Você realmente sabe Javascript
+  video_link: <iframe src="http://blip.tv/play/hOdBguSoOQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBguSoOQI" style="display:none"></embed>
+  meeting:
+    id: 21
+  speakers:
+  - id: 43
+- description: ''
+  id: 56
+  slides_link: ''
+  title: Programação Web Assíncrona com Goliath
+  video_link: <iframe src="http://blip.tv/play/hOdBguzdSAI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBguzdSAI" style="display:none"></embed>
+  meeting:
+    id: 22
+  speakers:
+  - id: 42
+- description: ''
+  id: 55
+  slides_link: ''
+  title: Desmistificando FFI
+  video_link: <iframe src="http://blip.tv/play/hOdBguzbWgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBguzbWgI" style="display:none"></embed>
+  meeting:
+    id: 22
+  speakers:
+  - id: 22
+- description: ''
+  id: 54
+  slides_link: ''
+  title: LateX em aplicações Rails
+  video_link: <iframe src="http://blip.tv/play/hOdBguzXHAI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBguzXHAI" style="display:none"></embed>
+  meeting:
+    id: 22
+  speakers:
+  - id: 41
+- description: ''
+  id: 53
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/11307921"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: 'Case Abril: Click Counter'
+  video_link: <iframe src="http://blip.tv/play/hOdBguycTQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBguycTQI" style="display:none"></embed>
+  meeting:
+    id: 22
+  speakers:
+  - id: 35
+- description: ''
+  id: 52
+  slides_link: <script async class="speakerdeck-embed" data-id="4f2686f978ab2300220136a8"
+    data-ratio="1.299492385786802" src="//speakerdeck.com/assets/embed.js"></script>
+  title: Programação Funcional para Fazer Ruby Melhor
+  video_link: <iframe src="http://blip.tv/play/hOdBguvrZwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBguvrZwI" style="display:none"></embed>
+  meeting:
+    id: 22
+  speakers:
+  - id: 2
+- description: ''
+  id: 51
+  slides_link: ''
+  title: Offline web app com Local Storage
+  video_link: <iframe src="http://blip.tv/play/hOdBgvCYdwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgvCYdwI" style="display:none"></embed>
+  meeting:
+    id: 23
+  speakers:
+  - id: 40
+- description: ''
+  id: 50
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/11769816"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Hbase - Uma introdução a Banco de Dados Orientados a Colunas
+  video_link: <iframe src="http://blip.tv/play/hOdBgu%2BZBAI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgu+ZBAI" style="display:none"></embed>
+  meeting:
+    id: 23
+  speakers:
+  - id: 35
+- description: ''
+  id: 49
+  slides_link: ''
+  title: Criando promoções no Twitter usando Sinatra e Ominiauth
+  video_link: <iframe src="http://blip.tv/play/hOdBgu69MQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgu69MQI" style="display:none"></embed>
+  meeting:
+    id: 23
+  speakers:
+  - id: 36
+- description: ''
+  id: 48
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/11724894"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Implementações Paralelas
+  video_link: <iframe src="http://blip.tv/play/hOdBgu3uVQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgu3uVQI" style="display:none"></embed>
+  meeting:
+    id: 23
+  speakers:
+  - id: 39
+- description: ''
+  id: 47
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/13892177"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: A Linguagem mais Legal do Mundo
+  video_link: <iframe src="http://blip.tv/play/hOdBgvXmSAI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgvXmSAI" style="display:none"></embed>
+  meeting:
+    id: 24
+  speakers:
+  - id: 19
+  - id: 13
+- description: ''
+  id: 46
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/13017923"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe> '
+  title: Entendendo LISP em 15 minutos
+  video_link: ''
+  meeting:
+    id: 25
+  speakers:
+  - id: 37
+- description: ''
+  id: 45
+  slides_link: ''
+  title: Node.js e Rails
+  video_link: <iframe src="http://blip.tv/play/hOdBgvurIQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgvurIQI" style="display:none"></embed>
+  meeting:
+    id: 25
+  speakers:
+  - id: 36
+- description: ''
+  id: 44
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/12987452"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/lfcipriani/explaining-semantic-web"
+    title="Explaining Semantic Web" target="_blank">Explaining Semantic Web</a> </strong>
+    from <strong><a href="http://www.slideshare.net/lfcipriani" target="_blank">Luis
+    Cipriani</a></strong> </div>'
+  title: Explicando a Web Semântica
+  video_link: <iframe src="http://blip.tv/play/hOdBgvukTwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgvukTwI" style="display:none"></embed>
+  meeting:
+    id: 25
+  speakers:
+  - id: 35
+- description: ''
+  id: 43
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/13497099"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Elastic Search
+  video_link: <iframe src="http://blip.tv/play/hOdBgv6QKQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgv6QKQI" style="display:none"></embed>
+  meeting:
+    id: 26
+  speakers:
+  - id: 17
+- description: ''
+  id: 42
+  slides_link: ''
+  title: Exemplos de Machine Learning em 15 minutos
+  video_link: <iframe src="http://blip.tv/play/hOdBgv6HdwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgv6HdwI" style="display:none"></embed>
+  meeting:
+    id: 26
+  speakers:
+  - id: 13
+- description: ''
+  id: 41
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/4866253"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Mining Production Opinions and Reviews on The Web
+  video_link: <iframe src="http://blip.tv/play/hOdBgv6FcgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgv6FcgI" style="display:none"></embed>
+  meeting:
+    id: 26
+  speakers:
+  - id: 34
+- description: ''
+  id: 40
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/13484964"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Pipeline de desenvolvimento e automatização na Abril
+  video_link: <iframe src="http://blip.tv/play/hOdBgv6XFgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgv6XFgI" style="display:none"></embed>
+  meeting:
+    id: 26
+  speakers:
+  - id: 33
+- description: ''
+  id: 39
+  slides_link: ''
+  title: Otimização de um sistema com Javascript
+  video_link: <iframe src="http://blip.tv/play/hOdBgqK8aAI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgqK8aAI" style="display:none"></embed>
+  meeting:
+    id: 14
+  speakers:
+  - id: 18
+- description: ''
+  id: 38
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/6720247?rel=0"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Rails Admin
+  video_link: <iframe src="http://blip.tv/play/hOdBgqK7FQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgqK7FQI" style="display:none"></embed>
+  meeting:
+    id: 14
+  speakers:
+  - id: 31
+- description: ''
+  id: 37
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/6668045"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe> '
+  title: Resque
+  video_link: <iframe src="http://blip.tv/play/hOdBgqKrJQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgqKrJQI" style="display:none"></embed>
+  meeting:
+    id: 14
+  speakers:
+  - id: 30
+- description: ''
+  id: 36
+  slides_link: ''
+  title: Stress testing com HTTPERF
+  video_link: <iframe src="http://blip.tv/play/hOdBgqKlFgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgqKlFgI" style="display:none"></embed>
+  meeting:
+    id: 14
+  speakers:
+  - id: 2
+- description: ''
+  id: 35
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/4355032"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Refatorando Ruby - Técnicas de Orientação a Objetos e Design Patterns Aplicados
+    a Linguagens Dinâmicas
+  video_link: <iframe src="http://blip.tv/play/hOdBgeSRJwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgeSRJwI" style="display:none"></embed>
+  meeting:
+    id: 12
+  speakers:
+  - id: 28
+- description: ''
+  id: 34
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/4371038"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe> '
+  title: Cucumber e BDD
+  video_link: <iframe src="http://blip.tv/play/hOdBgeSOcwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgeSOcwI" style="display:none"></embed>
+  meeting:
+    id: 12
+  speakers:
+  - id: 27
+- description: ''
+  id: 33
+  slides_link: ''
+  title: Rhodes, um framework para o desenvolvimento de aplicações nativas para smartphones
+    usando Ruby
+  video_link: <iframe src="http://blip.tv/play/hOdBgePVPQI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgePVPQI" style="display:none"></embed>
+  meeting:
+    id: 12
+  speakers:
+  - id: 1
+- description: ''
+  id: 32
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/4393552"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: O que há de novo no Rails 3
+  video_link: <iframe src="http://blip.tv/play/hOdBgeOSWAI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgeOSWAI" style="display:none"></embed>
+  meeting:
+    id: 12
+  speakers:
+  - id: 26
+- description: ''
+  id: 31
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/4410184"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe> '
+  title: 'Entendendo metaprogramação e por que magia negra não existe (Voodoo é pra
+    jacu) '
+  video_link: <iframe src="http://blip.tv/play/hOdBgePKfgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgePKfgI" style="display:none"></embed>
+  meeting:
+    id: 12
+  speakers:
+  - id: 25
+- description: ''
+  id: 30
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/4372193"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Processamento Batch - Escalando um sistema sem "fermento"
+  video_link: <iframe src="http://blip.tv/play/hOdBgeLqIAI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgeLqIAI" style="display:none"></embed>
+  meeting:
+    id: 12
+  speakers:
+  - id: 24
+  - id: 22
+- description: ''
+  id: 29
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/5233427"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: gem Infinity Test - testando com todos os rubies
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BrAAI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+rAAI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 23
+- description: ''
+  id: 28
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/8441187"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Outpost - Monitoramento de aplicações web com Ruby puro
+  video_link: <iframe src="http://blip.tv/play/hOdBgf_eRgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf_eRgI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 2
+- description: ''
+  id: 27
+  slides_link: ''
+  title: Reactor Pattern com Event Machine
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BySQI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+ySQI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 22
+- description: ''
+  id: 26
+  slides_link: ''
+  title: Um iniciante construindo um mashup com Rails
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BqagI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+qagI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 21
+- description: ''
+  id: 25
+  slides_link: ''
+  title: gem String Utility Belt
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BqPwI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+qPwI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 20
+- description: ''
+  id: 24
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/5233495"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe> '
+  title: Testando seu código Objective-C com Rspec
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BpegI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+pegI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 19
+- description: ''
+  id: 23
+  slides_link: ''
+  title: AREL e SQL no Rails 3
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BpZAI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+pZAI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 18
+- description: ''
+  id: 22
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/5233769"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Controlando estado de objetos Ruby com State Machine
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BpPQI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+pPQI" style="display:none"></embed>
+  speakers:
+  - id: 17
+- description: ''
+  id: 21
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/5233769"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Controlando estado de objetos Ruby com State Machine
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BpPQI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+pPQI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 17
+- description: ''
+  id: 20
+  slides_link: ''
+  title: Plugin Localizable Fields
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BpAQI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+pAQI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 2
+- description: ''
+  id: 19
+  slides_link: ''
+  title: Classic SOA in Ruby
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BoTAI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+oTAI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 16
+- description: ''
+  id: 18
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/5231528"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Raspando dados com Sinatra e Hpricot
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BoCQI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+oCQI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 15
+- description: ''
+  id: 17
+  slides_link: ''
+  title: DSL, Treetop, Sinatra e Heroku no Kanbansket.ch
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BnSQI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+nSQI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 14
+- description: ''
+  id: 16
+  slides_link: ''
+  title: Rails != Rest
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BnDQI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+nDQI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 13
+- description: ''
+  id: 15
+  slides_link: ''
+  title: Funcional não é Chamar Função
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BmKAI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+mKAI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 13
+- description: ''
+  id: 14
+  slides_link: ''
+  title: Segurança em Aplicativos Rails
+  video_link: <iframe src="http://blip.tv/play/hOdBgf%2BlZQI.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgf+lZQI" style="display:none"></embed>
+  meeting:
+    id: 11
+  speakers:
+  - id: 12
+- description: ''
+  id: 13
+  slides_link: ''
+  title: Redis e alta disponibilidade
+  video_link: ''
+  meeting:
+    id: 8
+  speakers:
+  - id: 11
+- description: ''
+  id: 12
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/3686135"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Reescrevendo em Rails uma grande aplicação legada
+  video_link: <iframe src="http://blip.tv/play/hOdBgduwVwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgduwVwI" style="display:none"></embed>
+  meeting:
+    id: 8
+  speakers:
+  - id: 10
+- description: ''
+  id: 11
+  slides_link: ''
+  title: Hpricot - Extraindo dados de páginas Web
+  video_link: <iframe src="http://blip.tv/play/hOdBgc3EcwI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgc3EcwI" style="display:none"></embed>
+  meeting:
+    id: 7
+  speakers:
+  - id: 9
+- description: ''
+  id: 10
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/3581559"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Por que VIM?
+  video_link: <iframe src="http://blip.tv/play/hOdBgsKoZgI.html?p=1" width="550" height="443"
+    frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdBgsKoZgI" style="display:none"></embed>
+  meeting:
+    id: 7
+  speakers:
+  - id: 39
+- description: Um pouco de metaprogramação com Ruby.
+  id: 9
+  slides_link: ''
+  title: Magia negra com Ruby
+  video_link: <iframe src="http://blip.tv/play/hOdB%2BOogAg.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdB+OogAg" style="display:none"></embed>
+  meeting:
+    id: 3
+  speakers:
+  - id: 8
+- description: O que é e como funciona o Ruby Learning
+  id: 8
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/1257258"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Ruby Learning
+  video_link: <iframe src="http://blip.tv/play/hOdB%2BOcuAg.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdB+OcuAg" style="display:none"></embed>
+  meeting:
+    id: 3
+  speakers:
+  - id: 39
+- description: ''
+  id: 7
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/1250269"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Só os imaturos não Testam
+  video_link: <iframe src="http://blip.tv/play/hOdB%2BOZGAg.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdB+OZGAg" style="display:none"></embed>
+  meeting:
+    id: 3
+  speakers:
+  - id: 6
+- description: ''
+  id: 6
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/1270046"
+    width="550" height="442" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Ruby no Desktop
+  video_link: ''
+  meeting:
+    id: 3
+  speakers:
+  - id: 1
+- description: ''
+  id: 5
+  slides_link: ''
+  title: Glassfish on Rails
+  video_link: <iframe src="http://blip.tv/play/hOdB%2BOInAg.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdB+OInAg" style="display:none"></embed>
+  meeting:
+    id: 3
+  speakers:
+  - id: 5
+- description: ''
+  id: 4
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/1265642"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Outsourcing
+  video_link: <iframe src="http://blip.tv/play/hOdB%2BNwjAg.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdB+NwjAg" style="display:none"></embed>
+  meeting:
+    id: 3
+  speakers:
+  - id: 4
+- description: ''
+  id: 3
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/1270116"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Emreprendedorismo com Ruby+Rails
+  video_link: <iframe src="http://blip.tv/play/hOdB%2BNgqAg.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdB+NgqAg" style="display:none"></embed>
+  meeting:
+    id: 3
+  speakers:
+  - id: 3
+- description: ''
+  id: 2
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/1252060"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Criando um Instant Messenger com Rails
+  video_link: <iframe src="http://blip.tv/play/hOdB%2BM07Ag.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdB+M07Ag" style="display:none"></embed>
+  meeting:
+    id: 3
+  speakers:
+  - id: 2
+- description: Abertura do Ruby+Rails no Mundo Real
+  id: 1
+  slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/1270045"
+    width="550" height="443" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen>
+    </iframe>'
+  title: Abertura
+  video_link: <iframe src="http://blip.tv/play/hOdB%2BMlyAg.html?p=1" width="550"
+    height="443" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash"
+    src="http://a.blip.tv/api.swf#hOdB+MlyAg" style="display:none"></embed>
+  meeting:
+    id: 3
+  speakers:
+  - id: 1

@@ -1,0 +1,401 @@
+---
+- id: 104
+  name: Bruno Rocha
+  nickname: ''
+  twitter: rochacbruno
+- id: 103
+  name: Niko Matsakis
+  nickname: ''
+  twitter: nikomatsakis
+- id: 102
+  name: Anderson Rocha
+  nickname: Max
+  twitter: anderson2320_7
+- id: 101
+  name: Daniel Vinciguerra
+  nickname: ''
+  twitter: dvinciguerra
+- id: 100
+  name: Rodrigo Masaru Ohashi
+  nickname: ''
+  twitter: ''
+- id: 99
+  name: Renan Hidemi Kataoka
+  nickname: ''
+  twitter: ''
+- id: 98
+  name: Fernando Guisso
+  nickname: ''
+  twitter: _fguisso
+- id: 97
+  name: Victor Marques
+  nickname: ''
+  twitter: ''
+- id: 96
+  name: Fernando Kakimoto
+  nickname: ''
+  twitter: nandokakimoto
+- id: 95
+  name: Daniel Libanori
+  nickname: ''
+  twitter: dlibanori
+- id: 94
+  name: André Luis Anastasio
+  nickname: ''
+  twitter: ''
+- id: 93
+  name: Kemel Zaidan
+  nickname: ''
+  twitter: kemelzaidan
+- id: 92
+  name: Ruan Brandão
+  nickname: ''
+  twitter: ruanbrandao
+- id: 91
+  name: Alda Rocha
+  nickname: ''
+  twitter: mjcoffeeholick
+- id: 90
+  name: Geovane Fedrecheski
+  nickname: ''
+  twitter: geonnave
+- id: 89
+  name: Igor Florian
+  nickname: ''
+  twitter: igorflorianfs
+- id: 88
+  name: Rafael França
+  nickname: ''
+  twitter: rafaelfranca
+- id: 87
+  name: Danilo Resende
+  nickname: ''
+  twitter: ''
+- id: 86
+  name: Celso Crivelaro
+  nickname: ''
+  twitter: celsocrivelaro
+- id: 85
+  name: Volmer Soares
+  nickname: ''
+  twitter: volmerius
+- id: 84
+  name: André Pantalião
+  nickname: ''
+  twitter: andre_pantaliao
+- id: 83
+  name: George Guimarães
+  nickname: ''
+  twitter: georgeguimaraes
+- id: 82
+  name: André Luís Anastácio
+  nickname: ''
+  twitter: ndrluis
+- id: 81
+  name: Leandro A. da Costa
+  nickname: ''
+  twitter: leandroadacosta
+- id: 80
+  name: Renan Ranelli
+  nickname: ''
+  twitter: renanranelli
+- id: 79
+  name: Rafael Rinaldi
+  nickname: ''
+  twitter: rafaelrinaldi
+- id: 78
+  name: Bernardo Chaves
+  nickname: ''
+  twitter: bernardo_amc
+- id: 77
+  name: Anderson Casimiro
+  nickname: ''
+  twitter: duodraco
+- id: 76
+  name: Eric Hideki
+  nickname: ''
+  twitter: erichideki
+- id: 75
+  name: Thiago Fernandes Massa
+  nickname: ''
+  twitter: th1agofm
+- id: 74
+  name: Ricardo de Cillo
+  nickname: ''
+  twitter: rcillo
+- id: 73
+  name: Marcio Mangar
+  nickname: ''
+  twitter: ''
+- id: 72
+  name: Thiago Diniz
+  nickname: ''
+  twitter: ''
+- id: 71
+  name: Renato Zannon
+  nickname: ''
+  twitter: ''
+- id: 70
+  name: Fabiano Beselga
+  nickname: ''
+  twitter: fbzga
+- id: 69
+  name: Rodrigo Martins
+  nickname: ''
+  twitter: ''
+- id: 68
+  name: Guilherme Nogueira
+  nickname: ''
+  twitter: ''
+- id: 67
+  name: Roger Leite
+  nickname: ''
+  twitter: rogerleite
+- id: 66
+  name: Caio Torres
+  nickname: ''
+  twitter: efreesen
+- id: 65
+  name: Lucas Mazza
+  nickname: ''
+  twitter: lucasmazza
+- id: 64
+  name: Rodrigo Flores
+  nickname: ''
+  twitter: rimflores
+- id: 63
+  name: Diego Souza
+  nickname: ''
+  twitter: ''
+- id: 62
+  name: Maurício Tollin
+  nickname: ''
+  twitter: bivisss
+- id: 61
+  name: Bruno Buccolo
+  nickname: 
+  twitter: buccolo
+- id: 60
+  name: Éverton Ribeiro
+  nickname: 
+  twitter: nuxlli
+- id: 59
+  name: Ricardo Yasuda
+  nickname: 
+  twitter: shadowmaru
+- id: 58
+  name: Eduardo Maia
+  nickname: 
+  twitter: emaiax
+- id: 57
+  name: Pablo Cantero
+  nickname: 
+  twitter: pablocantero
+- id: 56
+  name: Bruno Croci
+  nickname: 
+  twitter: crocidb
+- id: 55
+  name: Nilson Souto
+  nickname: ''
+  twitter: xissburg
+- id: 54
+  name: Rafael Massoni
+  nickname: ''
+  twitter: ''
+- id: 53
+  name: Rinaldi Fonseca
+  nickname: 
+  twitter: rinaldifonseca
+- id: 52
+  name: Tomas D'Steffano
+  nickname: 
+  twitter: tomas_stefano
+- id: 51
+  name: Alberto Luis Souza
+  nickname: 
+  twitter: alberto_souza
+- id: 50
+  name: Nelson M. Haraguchi
+  nickname: 
+  twitter: n2m8
+- id: 49
+  name: Bruno Oliveira
+  nickname: 
+  twitter: abstractj
+- id: 48
+  name: Rodrigo Serradura
+  nickname: 
+  twitter: rodrigoserradura
+- id: 47
+  name: Rafael Rosa Fu
+  nickname: 
+  twitter: rafaelrosafu
+- id: 46
+  name: Jean Carlo Nascimento
+  nickname: 
+  twitter: osuissa
+- id: 45
+  name: Marcus Vinicius Ferreira
+  nickname: 
+  twitter: darthmv
+- id: 44
+  name: João M. D. Moura
+  nickname: 
+  twitter: joaomdmoura
+- id: 43
+  name: Plinio Balduino
+  nickname: 
+  twitter: p_balduino
+- id: 42
+  name: Cainã Costa
+  nickname: 
+  twitter: cfcosta_
+- id: 41
+  name: Amadeus Folego
+  nickname: 
+  twitter: badosu_
+- id: 40
+  name: Gustavo Sales
+  nickname: 
+  twitter: vatsu
+- id: 39
+  name: Willian Molinari
+  nickname: 
+  twitter: pothix
+- id: 37
+  name: Plinio Balduino
+  nickname: 
+  twitter: pbalduino
+- id: 36
+  name: Nando Vieira
+  nickname: 
+  twitter: fnando
+- id: 35
+  name: Luis Cipriani
+  nickname: 
+  twitter: lfcipriani
+- id: 34
+  name: Felipe Mattosinho
+  nickname: 
+  twitter: felipejapm
+- id: 33
+  name: Ricardo Almeida
+  nickname: 
+  twitter: almeidaricardo
+- id: 31
+  name: Fabio Akita
+  nickname: 
+  twitter: akitaonrails
+- id: 30
+  name: Rubem Azenha
+  nickname: 
+  twitter: razenha
+- id: 28
+  name: Cássio Marques
+  nickname: 
+  twitter: cassiomarques
+- id: 27
+  name: Anderson Leite
+  nickname: 
+  twitter: anderson_leite
+- id: 26
+  name: Hugo Baraúna
+  nickname: 
+  twitter: hugobarauna
+- id: 25
+  name: Leonardo Bessa
+  nickname: ''
+  twitter: leobessa
+- id: 24
+  name: Thiago Scalone
+  nickname: ''
+  twitter: scalone
+- id: 23
+  name: Tomas D'Stefano
+  nickname: 
+  twitter: tomas_stefano
+- id: 22
+  name: Douglas Campos
+  nickname: 
+  twitter: qmx
+- id: 21
+  name: Thiago Ganzarolli
+  nickname: 
+  twitter: tganzarolli
+- id: 20
+  name: Rodrigo Serradura
+  nickname: 
+  twitter: serradura
+- id: 19
+  name: Ricardo Valeriano
+  nickname: 
+  twitter: sr_valeriano
+- id: 18
+  name: Maurício Szabo
+  nickname: 
+  twitter: mauricioszabo
+- id: 17
+  name: Lucas Catón
+  nickname: 
+  twitter: lucascaton
+- id: 16
+  name: Felipe Oliveira
+  nickname: 
+  twitter: scaphe
+- id: 15
+  name: Emerson Vinicius
+  nickname: 
+  twitter: _dukex
+- id: 14
+  name: Rodrigo Yoshima
+  nickname: 
+  twitter: rodrigoy
+- id: 13
+  name: Guilherme Silveira
+  nickname: 
+  twitter: guilhermecaelum
+- id: 12
+  name: Alex Costa
+  nickname: 
+  twitter: ''
+- id: 11
+  name: Felipe Vieira
+  nickname: 
+  twitter: felipetio
+- id: 10
+  name: Cassio Marques
+  nickname: 
+  twitter: cassiomarques
+- id: 9
+  name: Jonas Alves
+  nickname: 
+  twitter: jonas_alves
+- id: 8
+  name: Fabio Kung
+  nickname: 
+  twitter: fabiokung
+- id: 6
+  name: Carlos Brando
+  nickname: 
+  twitter: carlosbrando
+- id: 5
+  name: Maurício Leal
+  nickname: 
+  twitter: maltron
+- id: 4
+  name: Rodrigo Franco
+  nickname: 
+  twitter: caffo
+- id: 3
+  name: Hugo Borges
+  nickname: 
+  twitter: agaelebe
+- id: 2
+  name: Vinícius Baggio Fuentes
+  nickname: 
+  twitter: vinibaggio
+- id: 1
+  name: Marcelo Castellani
+  nickname: 
+  twitter: mfcastellani

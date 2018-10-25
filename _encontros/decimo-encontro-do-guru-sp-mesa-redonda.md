@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: meeting
 title:  'Décimo encontro do Guru-SP: mesa redonda'
 date:   2010-07-24T12:30:00Z
 venue_id: 7
-talk_ids: 
-sponsor_ids: 
+talk_ids:
+sponsor_ids:
 picasa_album_id: 5645242631087681457
 ---
 

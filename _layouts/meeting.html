@@ -13,14 +13,19 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
     </p>
-    <!-- <span>
-      <strong>Local:</strong>
-      {{ venue.name }}, <a href="https://www.google.com/maps/search/?api=1&query={{ venue.address | escape }}">{{ venue.address }}</a>
-    </span> -->
+
+    {%- if page.venue_id -%}
+      {% assign venue = site.data.venues | where: "id", page.venue_id | first %}
+      <p>
+        <strong>Local:</strong>
+        {{ venue.name }}, <a href="https://www.google.com/maps/search/?api=1&query={{ venue.address | escape }}">{{ venue.address }}</a>
+      </p>
+    {%- endif -%}
   <header>
 
 
   <div class="post-content e-content" itemprop="articleBody">
+
     {{ content }}
 
     {% if page.album_url %}
@@ -33,6 +38,21 @@ layout: default
       {% endfor %}
     </figure>
     {% endif %}
+
+    {% if page.sponsor_ids %}
+      <h2>Patrocínio</h2>
+      <ul class="grid">
+      {% for sponsor_id in page.sponsor_ids %}
+        {% assign sponsor = site.data.sponsors | where: "id", sponsor_id | first %}
+        <li>
+          <a href="{{ sponsor.url }}">
+            <img width="150" src="/assets/images{{ sponsor.logo.logo.thumb.url }}" title="{{ sponsor.name }}">
+          </a>
+        </li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+
 
     {% if page.external_urls %}
     <h2>Referências externas</h2>
