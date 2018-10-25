@@ -13,7 +13,7 @@ permalink: /encontros/
     <a href="/encontros/{{ item.slug }}" class="meeting-title">
       {{ item.title }}
     </a>
-    <div class="meeting-date">{{ item.date | date: "%m/%d/%Y" }}</div>
+    <div class="meeting-date">{{ item.date | date: "%d/%m/%Y" }}</div>
   </li>
 {% endfor %}
 </ul>

@@ -1,4 +1,10 @@
 ---
+- id: 34
+  name: Loggi
+  url: http://www.loggi.com.br
+- id: 33
+  name: Hellobits
+  url: http://www.nandovieira.com
 - id: 32
   name: Cedro Technologies
   url: http://www.cedro.com.br
@@ -11,7 +17,7 @@
   - id: 52
 - id: 31
   name: Creditas
-  url: www.creditas.com.br
+  url: http://www.creditas.com.br
   logo:
     logo:
       url: "/uploads/sponsor/logo/31/creditas.jpg"
@@ -42,7 +48,7 @@
   - id: 47
 - id: 28
   name: Gympass
-  url: www.gympass.com.br
+  url: http://www.gympass.com.br
   logo:
     logo:
       url: "/uploads/sponsor/logo/28/gympass.png"
@@ -62,7 +68,7 @@
   - id: 44
 - id: 24
   name: Maplink
-  url: www.maplink.com.br
+  url: http://www.maplink.com.br
   logo:
     logo:
       url: "/uploads/sponsor/logo/24/regular_logo-maplink.png"
@@ -82,7 +88,7 @@
   - id: 42
 - id: 22
   name: Truckpad
-  url: www.truckpad.com.br
+  url: http://www.truckpad.com.br
   logo:
     logo:
       url: "/uploads/sponsor/logo/22/logo_truckpad4.png"
@@ -161,7 +167,7 @@
   meetings:
   - id: 34
 - id: 14
-  name: Rubyconf
+  name: Rubyconf Brasil
   url: http://www.rubyconf.com.br
   logo:
     logo:
@@ -230,7 +236,7 @@
   meetings: []
 - id: 6
   name: Abril Digital
-  url: http://digital.abril.com.br/
+  url: http://www.abril.com.br/
   logo:
     logo:
       url: "/uploads/sponsor/logo/6/Abril_Midia.jpg"
@@ -259,7 +265,7 @@
   - id: 49
   - id: 31
 - id: 3
-  name: Garoa
+  name: Garoa Hacker Clube
   url: http://garoa.net.br
   logo:
     logo:

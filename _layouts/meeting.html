@@ -30,6 +30,7 @@ layout: default
 
     {% if page.album_url %}
     <h2>Fotos do encontro</h2>
+    <p>Clique na foto para acessar o álbum do Google Fotos.</p>
     <figure>
       {% for photo in page.album_photos %}
       <p>
@@ -46,7 +47,11 @@ layout: default
         {% assign sponsor = site.data.sponsors | where: "id", sponsor_id | first %}
         <li>
           <a href="{{ sponsor.url }}">
+            {% if sponsor.logo %}
             <img width="150" src="/assets/images{{ sponsor.logo.logo.thumb.url }}" title="{{ sponsor.name }}">
+            {% else %}
+              {{ sponsor.name }}
+            {% endif %}
           </a>
         </li>
       {% endfor %}

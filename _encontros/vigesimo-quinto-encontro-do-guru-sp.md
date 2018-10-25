@@ -1,11 +1,13 @@
 ---
-layout: post
-title:  'Vigésimo quinto encontro do Guru-SP'
-date:   2012-06-30T09:30:00Z
+layout: meeting
+title: 'Vigésimo quinto encontro do Guru-SP'
+date: 2012-06-30T09:30:00Z
 venue_id: 7
-talk_ids: 40 41 42 43
-sponsor_ids: 
+talk_ids: [40, 41, 42, 43]
+sponsor_ids: [1, 7]
 picasa_album_id: 5772573810805952817
+album_url: https://photos.app.goo.gl/9RFaju5UivUD1oG5A
+album_photos: https://lh3.googleusercontent.com/8cZDm4wHFtRmeHsYFF8XV8bUgXAEmonqQteDmhCCOVRafQccRB81VF6jriOh2QVlKjgafhEbh29GzsKqsvzYKGsuvHiZKhJtdrN1NqK86Xga8wEoIrFFN85b_9tnOXn_DutZUTXAHtXTr9iEKAOoKM9PotVrMmAoDiX4_y4oicLu5t_RdwxC17NfasIcbXoNrZknhBBb8ZrAfz5-2nYkdQAg10Lda-vHQonx5Pq_p8hTiT_nSsOJfxxUiRO8ROWzGP0YDPrjr6LbPtL6wY7Oa1AArsqpWfpIkGti0NVAhSgJNXzaZ2WaJgJ2mkWwATSl9ri_zWReNBvHNB9nv4jw6a4mJNF4AjGpBI6Djriat6QhaUM_k0C3OHMIgVXAuE4AsrG1EuVEuMlfAL88YuGpY9nwyZ5kHRyjh_UCPHkjDhgvQXVly5O_d2UPVVMx6L5GM1b9_R3cFiBEoafk5KwS-CrM1yxbOlcrmSI9qM-rhS1GT2uw6DV7bpgUsDw0HCM7DNlhzol0JJ03bNoxfksCCwynrrCnyGtwnixhkHdZy9QSV6wFrxSSEeXr_SfeGulg3QGlfFzWa049mRHgZjs6Mi-DJV4vdV1QkqmGZULefwj8GPyxqmrnPhSCvVLbcsz1bJlCw5kSvnll8n076NoeihV6f4nHZJ-VKi8QLLeTwP6PE_r7iYWRe6z6gyRSbcqjT2-oxz1iTeFIqKzmVA
 ---
 
 <p>

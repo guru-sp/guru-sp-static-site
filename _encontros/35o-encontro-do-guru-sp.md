@@ -16,5 +16,5 @@ album_photos: https://lh3.googleusercontent.com/V0DK5-sviIOOIqeBwjM0OwNVDylPFnRG
 
 <p>Sorteamos um livro doado pela Novatec entre os participantes.</p>
 
-<p><a href="http://wfernand.es/toptal">O coffe-break desse evento foi patrocinado pela Toptal.</a></p>
+<p>O coffee-break desse evento foi patrocinado pela <a href="http://wfernand.es/toptal">Toptal.</a></p>
 

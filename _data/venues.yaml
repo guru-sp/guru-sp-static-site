@@ -7,70 +7,68 @@
   address: Alameda Ministro Rocha de Azevedo, 38 - Conj. 1104, São Paulo
 - id: 27
   name: Creditas
-  address: Av. Engenheiro Luis Carlos Berrini, 105 - 12º andar, edifício Thera Corporate,
+  address: Avenida Engenheiro Luis Carlos Berrini, 105 - 12º andar, edifício Thera Corporate,
     São Paulo
 - id: 26
   name: Codus
   address: Avenida Paulista, 1274, Bela Vista, Edifício Ashai, 19º andar, São Paulo
 - id: 25
   name: TOTVS
-  address: " Av. Braz Leme, 1000, Santana"
+  address: "Avenida Braz Leme, 1000, Santana, São Paulo"
 - id: 24
   name: Gympass HQ
-  address: Avenida Brigadeiro. Faria Lima, 1306 - Pinheiros, São Paulo - SP, 01451-001
+  address: Avenida Brigadeiro Faria Lima, 1306 - Pinheiros, São Paulo
 - id: 23
   name: IBM Brasil
-  address: Rua Tutóia, 1157
+  address: Rua Tutóia, 1157, São Paulo
 - id: 22
   name: Maplink
-  address: Rua Fidêncio Ramos , 302, Vila Olímpia, São Paulo
+  address: Rua Fidêncio Ramos, 302, Vila Olímpia, São Paulo
 - id: 21
   name: Emprego Ligado
-  address: Rua Girassol, 385 Pinheiros São Paulo, SP 05433-001 Brasil
+  address: Rua Girassol, 385, Pinheiros, São Paulo
 - id: 20
   name: Auditório da PRODAM
-  address: Edifício Los Angeles, Av. Francisco Matarazzo, 1500 - Água Branca
+  address: Edifício Los Angeles, Avenida Francisco Matarazzo, 1500 - Água Branca, São Paulo
 - id: 19
   name: Vizir Software Studio
-  address: Edifício Cassio Muniz - R. do Arouche, 23
+  address: Edifício Cassio Muniz, Rua do Arouche, 23, São Paulo
 - id: 18
   name: Locaweb
-  address: Rua Itapaiuna, 2434, Vila Andrade
+  address: Rua Itapaiuna, 2434, Vila Andrade, São Paulo
 - id: 17
   name: Centro de Treinamento da Novatec
   address: Avenida Cruzeiro do Sul, 2463, Conj 617, São Paulo
 - id: 15
   name: Google Brasil
-  address: Av. Brigadeiro Faria Lima, 3477 - Itam Bibi – 18º andar
+  address: Avenida  Brigadeiro Faria Lima, 3477 - Itam Bibi – 18º andar, São Paulo
 - id: 14
   name: Germinadora
-  address: |-
-    Rua Eng. José Sá Rocha, 173
-    Vila Mariana, São Paulo/SP
+  address: Rua Eng. José Sá Rocha, 173 - Vila Mariana, São Paulo
 - id: 13
   name: Restaurante Graça Mineira
-  address: Rua Machado Bitencourt, 75 - Vila Clementino
+  address: Rua Machado Bitencourt, 75 - Vila Clementino, São Paulo
 - id: 12
   name: Garoa Hacker Clube
-  address: Rua Costa Carvalho, 567, São Paulo
+  address: Rua Costa Carvalho, 567 fundos, Pinheiros, São Paulo
 - id: 11
   name: Bio Ritmo Paulista
   address: Avenida Paulista, 2073, São Paulo - terraço 2 do Conjunto Nacional
 - id: 10
-  name: Wayra Brasil
+  name: Wayra Brasil (endereço antigo)
   address: Avenida Das Nações Unidas, 12399 – 14º andar, São Paulo
 - id: 9
   name: Vagas Tecnologia
   address: Rua Guararapes, 2064 - 14º andar, São Paulo
 - id: 8
-  name: Abril
-  address: Rua Sumidouro, 747 - Pinheiros, São Paulo, SP
+  name: Abril (endereço antigo)
+  address: Rua Sumidouro, 747 - Pinheiros, São Paulo
 - id: 7
   name: Caelum
   address: Rua Vergueiro, 3187, Vila Mariana, São Paulo
 - id: 6
   name: Green Place Flat Hotel
-  address: Rua Dr. Diogo de Faria, 1201, Vila Mariana
+  address: Rua Dr. Diogo de Faria, 1201, Vila Mariana, São Paulo
 - id: 5
   name: Gonow
   address: Rua Tenerife, 31, Itaim Bibi, São Paulo

@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: meeting
 title:  'Décimo quinto encontro do Guru-SP'
 date:   2011-03-26T09:45:00Z
 venue_id: 7
-talk_ids: 
-sponsor_ids: 
+talk_ids:
+sponsor_ids: [1,5]
 
 ---
 

@@ -1,15 +1,17 @@
 ---
-layout: post
+layout: meeting
 title:  'Sexto encontro sobre testes'
 date:   2009-09-26T09:00:00Z
 venue_id: 5
-talk_ids: 
-sponsor_ids: 
+talk_ids:
+sponsor_ids:
 picasa_album_id: 5645231651486892497
+album_url: https://photos.app.goo.gl/QuRWVVXEqwFKDAPC7
+album_photos: https://lh3.googleusercontent.com/0ZB_O4J4ws4Djpc8w5vF7D8BdZ3bU69JfYaMNzLmqQBh7cP8djG9ff86c74yJbQFaHBIeptN6XfKt4tLhEsp7w9fW57n3SgGvOFcGOe0NOE9s6tAc9o0sLQeDiblWKzwvT6QuSWNJ2aY8lEHL4wM1uumkR2tEhvXKUle_tv3tgHFPDrip2EKUE3e4-jaz5vLnoIz4iPUlA5aaHE_VSRYwaa3OLHGyo2aokkxSGjSCqwLtd3G_fE4UEtVsuOH8VElVADfBrVNC0usYpvrLA0pYcCg7PjzN5O9tTt6HxL1sUHcaQDc4P-Njr66KYbONqlSnJ_E4aNTnCCsmhpRFB7VidPNHIjaITRmgoUfiCsAymuvUxObIrIJ_o4Z6_fQqweGlpuJmD987g6XEYa4tYJ2_3HCzalD-8x1MMgQ0uMijtBXqNa4TswC4SLwe_vRiGGpIcJCmnvnU0AI3zu4G-2Vi1H646PL6d0I0hUmqKIXUeCD7NEc-1MZUiKNyBFoAHci4-qYYN3cQa_CbKDrRoHLFCj0AhoiS2V-P4FgRDaUKpB20AWrBzWrnaZueOk6fHQlAu1pJ3XhRLLkbj6munLBAuPrIQJTE2LpPPv1WgCckHsZNgtg_82pUBzrmGf2BUeb3FiNHD6lOqR2dJgvvrRKwkY
 ---
 
 Realizado em um auditório cedido pela Gonow Tecnologia o sexto encontro do Guru-SP foi uma mesa redonda sobre testes.
 
 Contamos com  a presença dos seguintes convidados:
-Anderson Leite, Cássio Marques, Jorge Diz, Ricardo Shadow9 Yasuda e Thiago Scalone.
+Anderson Leite, Cássio Marques, Jorge Diz, Ricardo 'Shadow' Yasuda e Thiago Scalone.
 

@@ -9,7 +9,7 @@ permalink: /patrocinadores/
 </p>
 
 <p>
-  O GURU-SP agradece a todas as pessoas e instituições que nos apoiram de alguma forma.
+  O GURU-SP agradece a todas as pessoas e instituições que nos apoiaram de alguma forma.
 </p>
 
 <p>
