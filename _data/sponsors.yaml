@@ -2,9 +2,19 @@
 - id: 34
   name: Loggi
   url: http://www.loggi.com.br
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/34/logo-loggi.png"
+      thumb:
+        url: "/uploads/sponsor/logo/34/logo-loggi.png"
 - id: 33
   name: Hellobits
   url: http://www.nandovieira.com
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/33/logo-hellobits.png"
+      thumb:
+        url: "/uploads/sponsor/logo/33/logo-hellobits.png"
 - id: 32
   name: Cedro Technologies
   url: http://www.cedro.com.br
