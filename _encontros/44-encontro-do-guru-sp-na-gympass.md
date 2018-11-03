@@ -11,7 +11,7 @@ album_photos: https://lh3.googleusercontent.com/OlnNRuS0Pm63eQbounjg5G4ywTHq60-W
 
 <p>Tivemos seis palestras nesse encontro, incluindo um live coding do PotHix.</p>
 
-<p><a href="https://www.youtube.com/playlist?list=PL5KmpU-nEj8ZS-Ch_GCeGWxeu3jT26qU1">Assista as palestras no nosso canal no Youtube.</a></p>
-
 <p>Esse encontro foi&nbsp;poss&iacute;vel gra&ccedil;as a Gympass, que ofereceu o local e o coffee-break.</p>
+
+<p><a href="https://www.youtube.com/playlist?list=PL5KmpU-nEj8ZS-Ch_GCeGWxeu3jT26qU1">Assista as palestras desse encontro no nosso canal do Youtube.</a></p>
 

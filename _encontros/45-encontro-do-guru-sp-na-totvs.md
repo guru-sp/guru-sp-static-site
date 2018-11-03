@@ -25,8 +25,8 @@ album_photos: https://lh3.googleusercontent.com/kjrBOInr43Mel0KAAeIqqJTBxBuyhN11
 </ul>
 
 <p>
-  <a href="https://www.youtube.com/watch?v=EXwT8gM-YfU">
-  V&iacute;deo da transmiss&atilde;o ao vivo
+  <a href="https://www.youtube.com/playlist?list=PL5KmpU-nEj8bqnAVeJVJG3BEq2LsKpkY6">
+  Assista as palestras desse encontro no nosso canal do Youtube
   </a>
 </p>
 

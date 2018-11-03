@@ -19,10 +19,12 @@
   name: Rodrigo Masaru Ohashi
   nickname: ''
   twitter: ''
+  linkedin: rodrigo-masaru-ohashi-10662412a
 - id: 99
   name: Renan Hidemi Kataoka
   nickname: ''
   twitter: ''
+  linkedin: renan-hidemi-kataoka-4b48b2b5
 - id: 98
   name: Fernando Guisso
   nickname: ''
@@ -31,6 +33,7 @@
   name: Victor Marques
   nickname: ''
   twitter: ''
+  linkedin: victor-marques-8782a1164
 - id: 96
   name: Fernando Kakimoto
   nickname: ''
@@ -40,9 +43,10 @@
   nickname: ''
   twitter: dlibanori
 - id: 94
-  name: André Luis Anastasio
+  name: 'no nome'
   nickname: ''
   twitter: ''
+  linkedin:
 - id: 93
   name: Kemel Zaidan
   nickname: ''
@@ -71,6 +75,7 @@
   name: Danilo Resende
   nickname: ''
   twitter: ''
+  linkedin: daniloisr
 - id: 86
   name: Celso Crivelaro
   nickname: ''
@@ -91,6 +96,7 @@
   name: André Luís Anastácio
   nickname: ''
   twitter: ndrluis
+  linkedin: andreanastacio
 - id: 81
   name: Leandro A. da Costa
   nickname: ''
@@ -124,17 +130,18 @@
   nickname: ''
   twitter: rcillo
 - id: 73
-  name: Marcio Mangar
-  nickname: ''
+  name: Marcio Garcia
+  nickname: 'Mangar'
   twitter: ''
+  linkein: marciogarcia
 - id: 72
   name: Thiago Diniz
   nickname: ''
-  twitter: ''
+  twitter: dinizz
 - id: 71
   name: Renato Zannon
   nickname: ''
-  twitter: ''
+  twitter: renatozannon
 - id: 70
   name: Fabiano Beselga
   nickname: ''
@@ -143,6 +150,7 @@
   name: Rodrigo Martins
   nickname: ''
   twitter: ''
+  linkedin: rrmartins
 - id: 68
   name: Guilherme Nogueira
   nickname: ''
@@ -173,27 +181,27 @@
   twitter: bivisss
 - id: 61
   name: Bruno Buccolo
-  nickname: 
+  nickname:
   twitter: buccolo
 - id: 60
   name: Éverton Ribeiro
-  nickname: 
+  nickname:
   twitter: nuxlli
 - id: 59
   name: Ricardo Yasuda
-  nickname: 
+  nickname:
   twitter: shadowmaru
 - id: 58
   name: Eduardo Maia
-  nickname: 
+  nickname:
   twitter: emaiax
 - id: 57
   name: Pablo Cantero
-  nickname: 
+  nickname:
   twitter: pablocantero
 - id: 56
   name: Bruno Croci
-  nickname: 
+  nickname:
   twitter: crocidb
 - id: 55
   name: Nilson Souto
@@ -205,103 +213,103 @@
   twitter: ''
 - id: 53
   name: Rinaldi Fonseca
-  nickname: 
+  nickname:
   twitter: rinaldifonseca
 - id: 52
   name: Tomas D'Steffano
-  nickname: 
+  nickname:
   twitter: tomas_stefano
 - id: 51
   name: Alberto Luis Souza
-  nickname: 
+  nickname:
   twitter: alberto_souza
 - id: 50
   name: Nelson M. Haraguchi
-  nickname: 
+  nickname:
   twitter: n2m8
 - id: 49
   name: Bruno Oliveira
-  nickname: 
+  nickname:
   twitter: abstractj
 - id: 48
   name: Rodrigo Serradura
-  nickname: 
+  nickname:
   twitter: rodrigoserradura
 - id: 47
   name: Rafael Rosa Fu
-  nickname: 
+  nickname:
   twitter: rafaelrosafu
 - id: 46
   name: Jean Carlo Nascimento
-  nickname: 
+  nickname:
   twitter: osuissa
 - id: 45
   name: Marcus Vinicius Ferreira
-  nickname: 
+  nickname:
   twitter: darthmv
 - id: 44
   name: João M. D. Moura
-  nickname: 
+  nickname:
   twitter: joaomdmoura
 - id: 43
   name: Plinio Balduino
-  nickname: 
+  nickname:
   twitter: p_balduino
 - id: 42
   name: Cainã Costa
-  nickname: 
+  nickname:
   twitter: cfcosta_
 - id: 41
   name: Amadeus Folego
-  nickname: 
+  nickname:
   twitter: badosu_
 - id: 40
   name: Gustavo Sales
-  nickname: 
+  nickname:
   twitter: vatsu
 - id: 39
   name: Willian Molinari
-  nickname: 
+  nickname:
   twitter: pothix
 - id: 37
   name: Plinio Balduino
-  nickname: 
+  nickname:
   twitter: pbalduino
 - id: 36
   name: Nando Vieira
-  nickname: 
+  nickname:
   twitter: fnando
 - id: 35
   name: Luis Cipriani
-  nickname: 
+  nickname:
   twitter: lfcipriani
 - id: 34
   name: Felipe Mattosinho
-  nickname: 
+  nickname:
   twitter: felipejapm
 - id: 33
   name: Ricardo Almeida
-  nickname: 
+  nickname:
   twitter: almeidaricardo
 - id: 31
   name: Fabio Akita
-  nickname: 
+  nickname:
   twitter: akitaonrails
 - id: 30
   name: Rubem Azenha
-  nickname: 
+  nickname:
   twitter: razenha
 - id: 28
   name: Cássio Marques
-  nickname: 
+  nickname:
   twitter: cassiomarques
 - id: 27
   name: Anderson Leite
-  nickname: 
+  nickname:
   twitter: anderson_leite
 - id: 26
   name: Hugo Baraúna
-  nickname: 
+  nickname:
   twitter: hugobarauna
 - id: 25
   name: Leonardo Bessa
@@ -313,89 +321,89 @@
   twitter: scalone
 - id: 23
   name: Tomas D'Stefano
-  nickname: 
+  nickname:
   twitter: tomas_stefano
 - id: 22
   name: Douglas Campos
-  nickname: 
+  nickname:
   twitter: qmx
 - id: 21
   name: Thiago Ganzarolli
-  nickname: 
+  nickname:
   twitter: tganzarolli
 - id: 20
   name: Rodrigo Serradura
-  nickname: 
+  nickname:
   twitter: serradura
 - id: 19
   name: Ricardo Valeriano
-  nickname: 
+  nickname:
   twitter: sr_valeriano
 - id: 18
   name: Maurício Szabo
-  nickname: 
+  nickname:
   twitter: mauricioszabo
 - id: 17
   name: Lucas Catón
-  nickname: 
+  nickname:
   twitter: lucascaton
 - id: 16
   name: Felipe Oliveira
-  nickname: 
+  nickname:
   twitter: scaphe
 - id: 15
   name: Emerson Vinicius
-  nickname: 
+  nickname:
   twitter: _dukex
 - id: 14
   name: Rodrigo Yoshima
-  nickname: 
+  nickname:
   twitter: rodrigoy
 - id: 13
   name: Guilherme Silveira
-  nickname: 
+  nickname:
   twitter: guilhermecaelum
 - id: 12
   name: Alex Costa
-  nickname: 
+  nickname:
   twitter: ''
 - id: 11
   name: Felipe Vieira
-  nickname: 
+  nickname:
   twitter: felipetio
 - id: 10
   name: Cassio Marques
-  nickname: 
+  nickname:
   twitter: cassiomarques
 - id: 9
   name: Jonas Alves
-  nickname: 
+  nickname:
   twitter: jonas_alves
 - id: 8
   name: Fabio Kung
-  nickname: 
+  nickname:
   twitter: fabiokung
 - id: 6
   name: Carlos Brando
-  nickname: 
+  nickname:
   twitter: carlosbrando
 - id: 5
   name: Maurício Leal
-  nickname: 
+  nickname:
   twitter: maltron
 - id: 4
   name: Rodrigo Franco
-  nickname: 
+  nickname:
   twitter: caffo
 - id: 3
   name: Hugo Borges
-  nickname: 
+  nickname:
   twitter: agaelebe
 - id: 2
   name: Vinícius Baggio Fuentes
-  nickname: 
+  nickname:
   twitter: vinibaggio
 - id: 1
   name: Marcelo Castellani
-  nickname: 
+  nickname:
   twitter: mfcastellani

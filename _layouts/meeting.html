@@ -6,6 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
+      <strong>Data:</strong>
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: "%d/%m/%Y" }}
       </time>
@@ -16,7 +17,7 @@ layout: default
 
     {%- if page.venue_id -%}
       {% assign venue = site.data.venues | where: "id", page.venue_id | first %}
-      <p>
+      <p class="post-meta">
         <strong>Local:</strong>
         {{ venue.name }}, <a href="https://www.google.com/maps/search/?api=1&query={{ venue.address | escape }}">{{ venue.address }}</a>
       </p>
@@ -27,6 +28,18 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
 
     {{ content }}
+
+    {% if page.talk_ids %}
+    <h2>Palestras apresentadas</h2>
+    <ul>
+      {% for talk_id in page.talk_ids %}
+        {% assign talk = site.data.talks | where: "id", talk_id | first %}
+      <li>
+        {{ talk.title }}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
 
     {% if page.album_url %}
     <h2>Fotos do encontro</h2>

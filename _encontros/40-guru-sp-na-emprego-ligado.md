@@ -12,5 +12,5 @@ album_photos: https://lh3.googleusercontent.com/XPTyis_gpDAVI25Q8-8cpSPwRdV5acPJ
 
 <p>O 40&ordm; encontro do Guru-SP aconteceu no dia 23/07 no escrit&oacute;rio da Emprego Ligado e teve seis palestras de assuntos diversos.</p>
 
-<p><a href="https://www.youtube.com/watch?v=KHWYHZqfP8Y">Assista a grava&ccedil;&atilde;o das palestras transmitidas pelo youtube.</a></p>
+<p><a href="https://www.youtube.com/watch?v=KHWYHZqfP8Y">Assista as palestras desse encontro no nosso canal do Youtube.</a></p>
 

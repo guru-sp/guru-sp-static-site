@@ -17,7 +17,8 @@ external_urls: http://speakerfight.com/events/43o-encontro-do-elug-sp-guru-sp-na
 
 <p>
   <a href="https://www.youtube.com/watch?v=Btc5SI4V1wQ&amp;list=PL5KmpU-nEj8aRzTO9ha3RtlqiFlttj1Yb">
-  As palestras desse encontro podem ser assistidas aqui</a>
+  Assista as palestras desse encontro no nosso canal do Youtube
+  </a>
 </p>
 
 

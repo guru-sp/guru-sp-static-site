@@ -24,4 +24,4 @@ A seguir as palestras apresentadas nesse encontro:
   - Como construir uma API de respeito com Rails - Alex "VKO" Oliveira
   - Ruby Games com RPG MAKER - Renato Franco
 
-[Assista aqui as palestras apresentadas nesse encontro.](https://www.youtube.com/watch?v=hmjg29D6RLU)
+[Assista as palestras desse encontro no nosso canal do Youtube.](https://www.youtube.com/watch?v=hmjg29D6RLU)

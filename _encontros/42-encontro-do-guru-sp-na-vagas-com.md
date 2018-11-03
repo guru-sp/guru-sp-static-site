@@ -14,7 +14,7 @@ album_photos: https://lh3.googleusercontent.com/dQxaCZYOl1fHgnUVctkc5Nd-W731ZPsc
 
 <p>
   <a href="https://www.youtube.com/watch?v=NfucOzndumU">
-    Assista aqui as palestras que aconteceram nesse encontro
+    Assista as palestras desse encontro no nosso canal do Youtube
   </a>
 </p>
 

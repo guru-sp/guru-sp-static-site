@@ -10,7 +10,10 @@ album_photos: https://lh3.googleusercontent.com/7jIoITwRbWsdTXMnLQuh2F6yET9ji7Ff
 external_urls: ['https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/249918824/']
 ---
 
-<p>No nosso encontro de abril voltamos a Bio Ritmo!</p>
+No nosso encontro de abril voltamos a Bio Ritmo!
+
+[Assista as palestras desse encontro no nosso canal do Youtube](https://www.youtube.com/playlist?list=PL5KmpU-nEj8YHtaI1ixLJMKqiiWmZ9AIh)
+
 
 
 

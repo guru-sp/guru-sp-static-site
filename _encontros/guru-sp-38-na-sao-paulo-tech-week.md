@@ -18,3 +18,10 @@ album_photos: https://lh3.googleusercontent.com/LuJ2BHDLc1qHCIO0G9LjUBBhX3167zIv
 <p>A S&atilde;o Paulo Tech Week &eacute; um movimento que valoriza o DNA criativo, inovador e empreendedor de S&atilde;o Paulo. No per&iacute;odo de 03 a 09 de novembro S&atilde;o Paulo ser&aacute; palco para iniciativas e eventos din&acirc;micos, atraindo e conectando milhares de talentos, empreendedores e investidores e posicionando S&atilde;o Paulo como um hub global de inova&ccedil;&atilde;o.</p>
 </blockquote>
 
+<p>
+  <a href="https://www.youtube.com/watch?v=Etdr861ypSU&list=PL5KmpU-nEj8YFmnRF3isjm7p003N8d-aI">
+  Assista aqui as palestras no nosso canal do Youtube
+  </a>
+</p>
+
+

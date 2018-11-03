@@ -10,6 +10,9 @@ album_photos: https://lh3.googleusercontent.com/ou6HEEzjZOYHipc6lZ4lxHnF4XXIkQqO
 external_urls: ['https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/250917379/', 'https://speakerfight.com/events/49o-encontro-do-guru-sp-na-creditas-96/' ]
 ---
 
-<p>Nosso encontro de junho aconteceu na Creditas.</p>
+Nosso encontro de junho aconteceu na Creditas.
+
+[Assista as palestras desse encontro no nosso canal do Youtube](https://www.youtube.com/playlist?list=PL5KmpU-nEj8Z8KsOidijHHyB0vyyE6m9p)
+
 
 

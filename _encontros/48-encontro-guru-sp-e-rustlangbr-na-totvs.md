@@ -10,6 +10,6 @@ album_photos: https://lh3.googleusercontent.com/X5Uv4eJeoNEiySyyikz0Ee4juebUOFgc
 external_urls: ['https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/events/249463627/', 'https://speakerfight.com/events/encontro-de-comunidades-gurusp-e-rustlangbr/']
 ---
 
-<p>
-  Nesse encontro especial nos reunimos novamente na TOTVS junto com a comunidade RustLangBR.
-</p>
+Nesse encontro especial nos reunimos novamente na TOTVS junto com a comunidade RustLangBR.
+
+Infelizmente as palestras nã foram gravadas.

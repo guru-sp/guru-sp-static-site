@@ -13,4 +13,4 @@ external_urls: ['https://speakerfight.com/events/50o-encontro-do-guru-sp-na-cedr
 
 No nosso quinquagésimo encontro tivemos 4 palestras sobre assuntos diversos.
 
-[Assista as palestras desse encontro](https://www.youtube.com/watch?v=6OkJpzzviwY&list=PL5KmpU-nEj8bNA8iKZes4LU5cxn_83UBN)
+[Assista as palestras desse encontro no nosso canal do Youtube](https://www.youtube.com/watch?v=6OkJpzzviwY&list=PL5KmpU-nEj8bNA8iKZes4LU5cxn_83UBN)
