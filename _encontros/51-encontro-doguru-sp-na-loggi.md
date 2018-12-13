@@ -12,6 +12,6 @@ external_urls: ['https://www.instagram.com/explore/tags/gurusp10anos/','https://
 
 ---
 
-No nosso quinquagésimo primeiro encontro, em comemoração aos 10 anos do Guru-SP tivemos 5 palestras. Ao final do encontro tivemos bolo e nos reunimos no Bar Bela Santos em frente a Loggi.
+No nosso quinquagésimo primeiro encontro em comemoração aos 10 anos do Guru-SP tivemos 5 palestras. Ao final do encontro tivemos bolo e nos reunimos no Bar Bela Santos em frente a Loggi.
 
 [Assista as palestras desse encontro no nosso canal do Youtube](https://www.youtube.com/watch?v=f0kjacxHaZc&list=PL5KmpU-nEj8YcKiFhme1f_KEpPlOIGlip)

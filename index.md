@@ -6,9 +6,18 @@ list_title: Encontros
 layout: home
 ---
 
-Esse é novo site do Guru-SP.
+Somos uma associação de pessoas interessadas em aprender, ensinar e divulgar o uso da linguagem de programação Ruby, seu ecossistema e outros assuntos e tecnologias relacionados ao desenvolvimento de software. Todos os anos realizamos encontros presenciais com o objetivo de compartilhar conhecimento, conhecer pessoas novas e rever o(a)s amigo(a)s.
 
-Enquanto arrumamos a casa entre na [nossa página do meetup][meetup] para saber dos próximos encontros.
+# Como participar
 
-[meetup]: https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/
+Para saber dos encontros presenciais, acompanhe nossa página no [Meetup].
+Para divulgação de vagas, projetos e dúvidas em geral há a clássica [lista de discussão], o [grupo do Facebook] e o [grupo do Telegram].
+
+
+[grupo do Facebook]: https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/
+
+[grupo do Facebook]: https://www.facebook.com/groups/gurusp
+[lista de discussão]: https://groups.google.com/forum/#!forum/ruby-sp
+[Meetup]: https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/
+[grupo do Telegram]: https://t.me/gurusp
 
