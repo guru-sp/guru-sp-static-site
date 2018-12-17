@@ -17,7 +17,7 @@ title: Guru-SP
 author: ''
 email: contato@gurusp.org
 description: >- # this means to ignore newlines until "baseurl:"
-   O Grupo de Usuários Ruby de São Paulo é uma associação de pessoas interessadas em aprender, ensinar e divulgar o uso da linguagem de programação Ruby e de outros assuntos relacionados ao desenvolvimento de software.
+  Somos o grupo de usuários Ruby de São Paulo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.gurusp.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guru_sp
