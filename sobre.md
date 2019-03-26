@@ -19,10 +19,3 @@ O **GURU-SP** foi fundado em _5 de outubro de 2008_ na lista de discussão [Rail
 *   Podem participar do grupo todos aqueles que desejarem, sendo vetada a discriminação dentro do mesmo, seja racial, cultural, religiosa ou sexual de acordo com a constituição brasileira.
 *   O grupo é composto por pessoas que estejam interessadas em ensinar, aprender e evoluir no aprendizado da linguagem Ruby e do desenvolvimento de software em geral.
 
-### Logo do grupo
-
-O logotipo do GURU-SP foi criado por Hugo Borges e está disponível sob a licença [Creative Commons NonCommercial Share-Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).Ele foi criado usando o editor gráfico vetorial [Inkscape](http://www.inkscape.org).
-
-Sinta-se a vontade em criar versões derivadas e usar os logos aqui contidos para divulgação do grupo.
-
-[Arquivo vetorial do logo em formato SVG]({{site.web_logo_url | relative_url}})
