@@ -1,4 +1,28 @@
 ---
+- id: 37
+  name: Getninjas
+  url: http://www.getninjas.com.br
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-getninjas.png"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-getninjas.png"
+- id: 36
+  name: Pitzi
+  url: http://www.pitzi.com.br
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-pitzi.jpg"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-pitzi.jpg"
+- id: 35
+  name: Iugu
+  url: http://www.iugu.com.br
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-iugu.jpg"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-iugu.jpg"
 - id: 34
   name: Loggi
   url: http://www.loggi.com.br
