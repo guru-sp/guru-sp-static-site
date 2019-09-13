@@ -1,4 +1,7 @@
 ---
+- id: 30
+  name: iugu
+  address: Avenida Paulista, 1048, São Paulo
 - id: 29
   name: Loggi
   address: Alameda Santos, 2400, São Paulo
