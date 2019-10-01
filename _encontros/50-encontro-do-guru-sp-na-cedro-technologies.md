@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title:  '50º encontro do Guru-SP na Cedro Technologies'
-date:   2018-06-09T09:30:00Z
+date:   2018-08-18T09:30:00Z
 venue_id: 28
 talk_ids:
 sponsor_ids: [32]
@@ -11,6 +11,6 @@ external_urls: ['https://speakerfight.com/events/50o-encontro-do-guru-sp-na-cedr
 
 ---
 
-No nosso quinquagésimo encontro tivemos 4 palestras sobre assuntos diversos.
+No nosso quinquagésimo encontro na Cedro tivemos 4 palestras sobre assuntos diversos.
 
 [Assista as palestras desse encontro no nosso canal do Youtube](https://www.youtube.com/watch?v=6OkJpzzviwY&list=PL5KmpU-nEj8bNA8iKZes4LU5cxn_83UBN)
