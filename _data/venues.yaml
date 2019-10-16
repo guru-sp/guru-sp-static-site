@@ -1,4 +1,7 @@
 ---
+- id: 32
+  name: Get Ninjas
+  address: Av. Rebouças, 2472, São Paulo
 - id: 31
   name: Pitzi
   address: R. Fidêncio Ramos, 100, São Paulo
