@@ -2,6 +2,11 @@
 - id: 38
   name: Levee
   url: https://levee.com.br/
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-levee.png"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-levee.png"
 - id: 37
   name: Getninjas
   url: http://www.getninjas.com.br
