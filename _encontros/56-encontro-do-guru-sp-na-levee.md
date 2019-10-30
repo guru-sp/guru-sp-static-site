@@ -23,4 +23,4 @@ Nesse encontro tivemos 6 palestras:
 * Desenvolvimento Web - Semântica e Sintaxe, Importância da acessibilidade nos seus códigos e algumas boas praticas de desenvolvimento (Iniciante) – Lucas Gregorio
 * Criando um adapter customizado para o ActiveJob (intermediário) – Felipe Oliveira
 
-[Assista às palestras desse encontro no nosso canal do YouTube (em breve)](https://www.youtube.com/channel/UCrxf9jYw4gva_9jwb-77AqQ)
+[Assista às palestras desse encontro no nosso canal do YouTube](https://www.youtube.com/watch?v=bKloLshB4xU&list=PL5KmpU-nEj8b68esonm_Kn0OYXL9xFhuB)
