@@ -1,4 +1,12 @@
 ---
+- id: 39
+  name: Doghero
+  url: https://doghero.com.br/
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-doghero.png"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-doghero.png"
 - id: 38
   name: Levee
   url: https://levee.com.br/

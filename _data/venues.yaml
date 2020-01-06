@@ -1,4 +1,7 @@
 ---
+- id: 34
+  name: DogHero
+  address: R. Eugênio de Medeiros, 242, São Paulo
 - id: 33
   name: Levee
   address: R. Butantã, 434, São Paulo
