@@ -1,4 +1,7 @@
 ---
+- id: 35
+  name: SumUp
+  address: R. Gilberto Sabino, 215, São Paulo
 - id: 34
   name: DogHero
   address: R. Eugênio de Medeiros, 242, São Paulo

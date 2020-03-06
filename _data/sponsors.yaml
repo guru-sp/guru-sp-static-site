@@ -1,4 +1,12 @@
 ---
+- id: 40
+  name: SumUp
+  url: https://sumup.com.br/carreiras/
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-sumup.png"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-sumup.png"
 - id: 39
   name: Doghero
   url: https://doghero.com.br/
