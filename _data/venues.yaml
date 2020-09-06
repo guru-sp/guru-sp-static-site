@@ -1,4 +1,7 @@
 ---
+- id: 36
+  name: Online
+  address: '127.0.0.1'
 - id: 35
   name: SumUp
   address: R. Gilberto Sabino, 215, São Paulo
