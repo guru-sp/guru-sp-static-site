@@ -8,6 +8,8 @@ O **GURU-SP**, Grupo de Usuários Ruby de São Paulo, é uma associação de pes
 
 O **GURU-SP** foi fundado em _5 de outubro de 2008_ na lista de discussão [Rails-BR](https://groups.google.com/forum/#!topic/rails-br/HUnABlEfR7A). Iniciou-se com [uma lista de discussão](https://groups.google.com/group/ruby-sp?hl=pt) e tem como página oficial este site, acessível através do endereço [http://www.gurusp.org](http://www.gurusp.org), cujo código fonte está disponível na [conta do Github do grupo](http://github.com/guru-sp/).
 
+Optamos por desativar o envio de novas mensagens na lista de discussão do Google Grupos em favor do uso da nossa lista do Telegram.
+
 ### Estatuto do GURU-SP
 
 1. O grupo de usuários de Ruby de São Paulo (GURU-SP) tem como objetivos:

@@ -27,8 +27,9 @@ meetup_username: Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo
 meetup_title: Meetup
 facebook_group_username: gurusp
 facebook_group_title: Grupo no Facebook
-google_groups_username: ruby-sp
-google_groups_title: Lista de discussão
+# TO DO: add telegram icon
+# telegram_username: gurusp
+# telegram_title: Grupo do Telegram
 list_title: Encontros
 lang: pt-BR
 header_logo_url: assets/images/gurusp-2018-site.svg
