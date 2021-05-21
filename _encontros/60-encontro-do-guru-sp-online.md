@@ -16,9 +16,11 @@ O nosso sexagésimo encontro aconteceu online com transmissão em nosso canal de
 
 Nesse encontro tivemos 3 apresentações de empresas: [Iugu](https://jobs.kenoby.com/iugu), [Vindi](https://vindi.gupy.io/)  e [Revelo](https://www.revelo.com.br/). Após as apresentações fizemos duas dicussões:
 
-* Uma discussão das empresas participantes sobre mercardo de trabalho no Brasil em geral e dicas para entrar no mercado de trabalho com a participação do Marcelo Castellani, Paula Benvenutti (Iugu), Roberson Miguel (Vindi), Vinícius Buffoni (Vindi), Celso Crivelari (Revelo) e Débora Fernandes (Revelo).
+* Uma discussão das empresas participantes sobre mercado de trabalho no Brasil em geral e dicas para entrar no mercado de trabalho com a participação do Marcelo Castellani, Paula Benvenutti (Iugu), Roberson Miguel (Vindi), Vinícius Buffoni (Vindi), Celso Crivelaro (Revelo) e Débora Fernandes (Revelo).
 
-* Uma discussão com três desenvolvedores que trabalham remotamente para empresas de fora do Brasil ajudando aqueles que tem interesse no assunto. A dicussão contou com a participação do Celso Fernandes, Régis Mesquista, William 'Pothix' Molinari
+* Uma discussão com três desenvolvedores que trabalham remotamente para empresas de fora do Brasil ajudando aqueles que tem interesse no assunto. A discussão contou com a participação do Celso Fernandes, Régis Mesquita, William '[PotHix](https://pothix.com)' Molinari
+
+O PotHix citou que fez uma série de post para ajudar quem está começando a trabalhar para o exterior como PF (pessoa física) ou PJ (pessoa jurídica). O link para a série é: https://pothix.com/series/pf-pj
 
 O Guru-SP agradece as empresas e pessoas que participaram do encontro.
 

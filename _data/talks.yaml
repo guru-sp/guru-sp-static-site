@@ -751,7 +751,7 @@
     id: 31
   speakers:
   - id: 64
-- description: Nessa palestra Pothix e Diego Souza falam um pouco sobre técnicas de
+- description: Nessa palestra PotHix e Diego Souza falam um pouco sobre técnicas de
     programação para jogos em rede.
   id: 94
   slides_link: '<iframe src="http://www.slideshare.net/slideshow/embed_code/15490611"
@@ -911,7 +911,7 @@
     id: 29
   speakers:
   - id: 55
-- description: Willian Molinari (Pothix) e Rafael Massoni falam como foi o desenvolvimento
+- description: Willian Molinari (PotHix) e Rafael Massoni falam como foi o desenvolvimento
     das primeiras fases do jogo Skeleton Jigsaw.
   id: 78
   slides_link: <a href="https://speakerdeck.com/rmasoni/gamedev-com-html5">https://speakerdeck.com/rmasoni/gamedev-com-html5</a>

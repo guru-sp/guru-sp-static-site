@@ -11,4 +11,4 @@ album_photos: ['https://lh3.googleusercontent.com/GWwF3HRdSTEJuj1HovQV53QCkfOwWu
 external_urls: https://groups.google.com/forum/#!topic/ruby-sp/FBM70EHY7_w
 ---
 
-No primeiro encontro do Guru-SP, Marcelo Castellani, Hugo Borges (agaelebe) e Willian Mollinari (pothix) se reuniram em São Caetano para falar um pouco sobre Ruby.
+No primeiro encontro do Guru-SP, Marcelo Castellani, Hugo Borges (agaelebe) e Willian Molinari ([PotHix](https://pothix.com)) se reuniram em São Caetano para falar um pouco sobre Ruby.
