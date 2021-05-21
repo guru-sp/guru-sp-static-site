@@ -15,7 +15,7 @@ Para divulgação de vagas, projetos e dúvidas em geral há a clássica [lista 
 
 # Começando com Ruby e Ruby on Rails
 
-Se está começando com Ruby/Rails recomendamos participar de algum desses canais: [Lista Rails-BR], [Ruby on Rails Brasil no Facebook], [Rubytalk no Slack], [Ruby Brasil no Telegram]. Veja também os [materiais organizados pelo Felipe Orlando no Github] para aprender Ruby on Rails.
+Se está começando com Ruby/Rails recomendamos participar de algum desses canais: [Ruby on Rails Brasil no Facebook], [Rubytalk no Slack], [Ruby Brasil no Telegram]. Veja também os [materiais organizados pelo Felipe Orlando no Github] para aprender Ruby on Rails.
 
 
 [Slack]: https://guru-sp.slack.com
@@ -24,9 +24,7 @@ Se está começando com Ruby/Rails recomendamos participar de algum desses canai
 [Meetup]: https://www.meetup.com/pt-BR/Guru-SP-Grupo-de-Usuarios-Ruby-de-Sao-Paulo/
 [grupo do Telegram]: https://t.me/gurusp
 
-[Lista Rails-BR]: https://groups.google.com/forum/#!forum/rails-br
 [Ruby on Rails Brasil no Facebook]: https://www.facebook.com/groups/rubyonrailsbrasil/
 [Ruby Brasil no Telegram]: https://t.me/rubybrasil
 [Rubytalk no Slack]: https://rubytalk.slack.com
 [materiais organizados pelo Felipe Orlando no Github]: https://github.com/felipeorlando/aprenda-rubyonrails
-
