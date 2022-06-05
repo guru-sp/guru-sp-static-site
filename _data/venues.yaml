@@ -1,4 +1,7 @@
 ---
+- id: 37
+  name: Vindi
+  address: R. do Paraíso, 148, São Paulo
 - id: 36
   name: Online
   address: '127.0.0.1'

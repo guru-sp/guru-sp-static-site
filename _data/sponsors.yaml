@@ -1,4 +1,14 @@
 ---
+
+- id: 41
+  name: Vindi
+  url: https://vindi.com.br/
+  url: https://vindi.com.br/
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-vindi.jpg"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-vindi.jpg"
 - id: 40
   name: SumUp
   url: https://sumup.com.br/carreiras/
