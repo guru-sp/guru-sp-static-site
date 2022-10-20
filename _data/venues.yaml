@@ -1,4 +1,7 @@
 ---
+- id: 38
+  name: iugu
+  address: Avenida das Nações Unidas, 12495, 16º andar, São Paulo
 - id: 37
   name: Vindi
   address: R. do Paraíso, 148, São Paulo
@@ -21,7 +24,7 @@
   name: Pitzi
   address: R. Fidêncio Ramos, 100, São Paulo
 - id: 30
-  name: iugu
+  name: iugu (endereço antigo)
   address: Avenida Paulista, 1048, São Paulo
 - id: 29
   name: Loggi
