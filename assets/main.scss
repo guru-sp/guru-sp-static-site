@@ -43,6 +43,10 @@
     .grid {
       grid-template-columns: 200px 200px;
     }
+
+    .footer-col {
+      width: 100%;
+    }
 }
 
 @media only screen and (max-width: 320px) {
