@@ -29,6 +29,12 @@
     }
 }
 
+@media only screen and (max-width: 600px) {
+  .site-nav {
+    top: 17px;
+  }
+}
+
 .footer-col-1 {
   width: -webkit-calc(25% - (#{$spacing-unit} / 2));
   width:         calc(25% - (#{$spacing-unit} / 2));
