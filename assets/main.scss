@@ -18,6 +18,17 @@
   height: 56px;
 }
 
+@media only screen and (min-width: 601px) {
+  .site-nav {
+    line-height: normal;
+  }
+  
+    .site-nav .page-link {
+      padding: 24px 0;
+      display: inline-block;
+    }
+}
+
 .footer-col-1 {
   width: -webkit-calc(25% - (#{$spacing-unit} / 2));
   width:         calc(25% - (#{$spacing-unit} / 2));
@@ -33,6 +44,12 @@
   width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
+@media only screen and (max-width: 600px) {
+  .footer-col {
+    width: 100%;
+  }
+}
+
 .grid {
     display: grid;
     grid-template-columns: 200px 200px 200px;
@@ -42,10 +59,6 @@
 @media only screen and (max-width: 600px) {
     .grid {
       grid-template-columns: 200px 200px;
-    }
-
-    .footer-col {
-      width: 100%;
     }
 }
 
