@@ -20,11 +20,11 @@ Palestras:
 * Desenvolvimento web Sustentável com Ruby on Rails - palestra com algumas dicas baeseadas na leitura do livro [Sustainable Rails do David Bryant Copeland](https://sustainable-rails.com/) por [Hugo Borges](https://twitter.com/agaelebe) - [vídeo da palestra no Youtube](https://youtu.be/42eVw8xhSHU?t=1160)
 
 Lightining talks:
-* Conhecendo o novo método [create_or_find_by!](https://api.rubyonrails.org/classes/ActiveRecord/Relation.html#method-i-create_or_find_by) disponível a partir do ActiveRecord/Rails 6 - [vídeo da palestra](https://www.youtube.com/watch?v=42eVw8xhSHU&t=11729s)
+*  Lidando com race conditions no Active Record com o método [create_or_find_by!](https://api.rubyonrails.org/classes/ActiveRecord/Relation.html#method-i-create_or_find_by) por João Guilherme [vídeo da palestra](https://www.youtube.com/watch?v=42eVw8xhSHU&t=11729s)
 * [Treinadev](https://treinadev.com.br/) - A [Erika Campos](https://twitter.com/minusculas) fala um pouco sobre o programa de formação de talentos para a tecnologia da Campus Code - [vídeo da palestra no Youtube](https://www.youtube.com/watch?v=42eVw8xhSHU&t=12240s)
 * Escafandro, apneias e sereias - dicas rápidas de como mergulhar no código por [Danilo Tupinambá](https://github.com/DanTupi) - [vídeo da palestra no Youtube](https://youtu.be/42eVw8xhSHU?t=12788)
 
-Na mesa redonda discutimos um pouco sobre trabalhar para fora do Brasil e os layoffs que tem sido frequentes em 2023/2023 - [vídeo da discussão](https://youtu.be/42eVw8xhSHU?t=14001)
+Na mesa redonda discutimos um pouco sobre trabalhar para fora do Brasil e os layoffs que tem sido frequentes nos últimos meses - [vídeo da discussão](https://youtu.be/42eVw8xhSHU?t=14001)
 
 Agradecimentos a [Vindi](https://vindi.gupy.io/) por mais uma vez ter fornecido o local para o encontro e um excelente coffee-break aos participantes, além de brindes para os palestrantes do evento.
 Também agradecemos ao Roberson Miguel [@biosbug](https://twitter.com/bragamat) que mais uma vez tornou esse encontro possível e ao Matheus Braga [@bragamat](https://twitter.com/bragamat) que também ajudou a organizar esse primeiro encontro do ano.
