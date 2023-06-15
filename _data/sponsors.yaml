@@ -146,7 +146,7 @@
   - id: 42
 - id: 23
   name: Apontador
-  url: www.apontador.com.br
+  url: https://www.apontador.com.br
   logo:
     logo:
       url: "/uploads/sponsor/logo/23/apontadorcom--sao-paulo.png"
@@ -246,7 +246,7 @@
   - id: 34
 - id: 12
   name: Vagas
-  url: www.vagas.com.br
+  url: https://www.vagas.com.br/
   logo:
     logo:
       url: "/uploads/sponsor/logo/12/VAGAS_Tecnologia.png"
