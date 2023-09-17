@@ -1,14 +1,20 @@
 ---
-
+- id: 42
+  name: Campus Code
+  url: https://campuscode.com.br/
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-campus-code.png"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-campus-code.png"
 - id: 41
   name: Vindi
   url: https://vindi.com.br/
-  url: https://vindi.com.br/
   logo:
     logo:
-      url: "/uploads/sponsor/logo/logo-vindi.jpg"
+      url: "/uploads/sponsor/logo/logo-vindi.png"
       thumb:
-        url: "/uploads/sponsor/logo/logo-vindi.jpg"
+        url: "/uploads/sponsor/logo/logo-vindi.png"
 - id: 40
   name: SumUp
   url: https://sumup.com.br/carreiras/
