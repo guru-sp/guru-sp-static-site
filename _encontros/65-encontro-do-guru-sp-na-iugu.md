@@ -26,6 +26,6 @@ Coincidentemente nesse mesmo dia aconteceu também o [32º encontro do Guru-CE](
 Agradecimentos:
 * Ao Felipe e a Uli por terem ajudado na organização do encontro;
 * A Iugu por ter oferecido a infraestrutura, coffee-break e brindes para os participantes;
-* A todas pessoas que palestraram e participaram do encontro, da mesa-redonda e contribuíram com as dicussões dos assuntos abordados, inclusive com perguntas e comentários realizados por quem acompanho o encontro remotamente.
+* A todas pessoas que palestraram e participaram do encontro, da mesa-redonda e contribuíram com as dicussões dos assuntos abordados, inclusive com perguntas e comentários realizados por quem acompanhou o encontro remotamente.
 
 [Assista as palestras do evento no nosso canal do Youtube](https://www.youtube.com/watch?v=VIDd7i7xvRA)
