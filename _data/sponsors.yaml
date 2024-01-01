@@ -1,4 +1,20 @@
 ---
+- id: 44
+  name: Adaflow
+  url: https://adaflow.com.br/
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-ada.jpg"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-ada.jpg"
+- id: 43
+  name: Le Wagon SP
+  url: https://www.lewagon.com/pt-BR/sao-paulo
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-lewagon.svg"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-lewagon.svg"
 - id: 42
   name: Campus Code
   url: https://campuscode.com.br/
