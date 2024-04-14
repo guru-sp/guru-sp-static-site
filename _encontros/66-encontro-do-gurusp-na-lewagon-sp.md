@@ -11,7 +11,7 @@ album_photos: https://lh3.googleusercontent.com/pw/ABLVV86o5qZjdelogKx3PjNfTMxUC
 external_urls: ['https://www.meetup.com/pt-BR/guru-sp-grupo-de-usuarios-ruby-de-sao-paulo/events/296153721/', 'https://www.papercall.io/guru-sp', 'https://www.youtube.com/watch?v=uv2s_Qmc-gw&list=PL5KmpU-nEj8bW7VEctlQ6KHFxpS4D1Q2h']
 ---
 
-No dia 2 dezembro de 2023 fizemos o nosso primeiro encontro na escola de [Le Wagon São Paulo](https://www.lewagon.com/pt-BR/sao-paulo) e o último encontro do ano. O coffe-break deste encontro foi patrocinado pela [plataforma de contabilidade Adaflow](https://www.adaflow.com.br). Nesse encontro tivemos a honra de receber o Rafael França e contamos com certa de 60 partipantes.
+No dia 2 de dezembro de 2023 fizemos o nosso primeiro encontro na escola de [Le Wagon São Paulo](https://www.lewagon.com/pt-BR/sao-paulo) e o último encontro do ano. O coffe-break deste encontro foi patrocinado pela [plataforma de contabilidade Adaflow](https://www.adaflow.com.br). Nesse encontro tivemos a honra de receber o Rafael França e contamos com certa de 60 partipantes.
 
 Palestras:
 * Compass: uma plataforma de mentoria feita em Rails - Ronalde Monezzi e Vitória Vital

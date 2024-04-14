@@ -1,4 +1,12 @@
 ---
+- id: 45
+  name: Cloudwalk
+  url: https://cloudwalk.io/
+  logo:
+    logo:
+      url: "/uploads/sponsor/logo/logo-cloudwalk.jpg"
+      thumb:
+        url: "/uploads/sponsor/logo/logo-cloudwalk.jpg"
 - id: 44
   name: Adaflow
   url: https://adaflow.com.br/
