@@ -1,4 +1,7 @@
 ---
+- id: 41
+  name: Garoa Hacker Clube
+  address: R. Pascoal Bianco, 48, Pinheiros, São Paulo
 - id: 40
   name: Cloudwalk
   address: R. Eugênio de Medeiros, 303 - 16º Andar, São Paulo, SP
@@ -82,7 +85,7 @@
   name: Restaurante Graça Mineira
   address: Rua Machado Bitencourt, 75 - Vila Clementino, São Paulo
 - id: 12
-  name: Garoa Hacker Clube
+  name: Garoa Hacker Clube (endereço antigo)
   address: Rua Costa Carvalho, 567 fundos, Pinheiros, São Paulo
 - id: 11
   name: Bio Ritmo Paulista
