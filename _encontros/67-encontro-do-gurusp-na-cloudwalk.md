@@ -11,7 +11,7 @@ album_photos: https://lh3.googleusercontent.com/pw/AP1GczNLYdQtBfZUytGZrYajG70vL
 external_urls: ['https://www.meetup.com/pt-BR/guru-sp-grupo-de-usuarios-ruby-de-sao-paulo/events/299589004/', 'https://www.papercall.io/guru-sp', 'https://www.youtube.com/watch?v=wPHEzj-YcpU']
 ---
 
-No dia 23 de março de 2023 fizemos o nosso primeiro encontro na [Cloudwalk](https://www.cloudwalk.io) que contou com cerca de 50 participantes. Agradacemos ao [Thiago Scalone](https://twitter.com/scalone) por ter tornado esse encontro possível.
+No dia 23 de março de 2024 fizemos o nosso primeiro encontro na [Cloudwalk](https://www.cloudwalk.io) que contou com cerca de 50 participantes. Agradacemos ao [Thiago Scalone](https://twitter.com/scalone) por ter tornado esse encontro possível.
 
 Agenda:
 * Uma pequena apresentação sobre a Cloudwalk contada pelo próprio Tiago Scalone
