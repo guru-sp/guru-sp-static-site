@@ -18,6 +18,23 @@
   height: 56px;
 }
 
+@media only screen and (min-width: 601px) {
+  .site-nav {
+    line-height: normal;
+  }
+  
+    .site-nav .page-link {
+      padding: 24px 0;
+      display: inline-block;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+  .site-nav {
+    top: 17px;
+  }
+}
+
 .footer-col-1 {
   width: -webkit-calc(25% - (#{$spacing-unit} / 2));
   width:         calc(25% - (#{$spacing-unit} / 2));
@@ -31,6 +48,12 @@
 .footer-col-3 {
   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
   width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+@media only screen and (max-width: 600px) {
+  .footer-col {
+    width: 100%;
+  }
 }
 
 .grid {
