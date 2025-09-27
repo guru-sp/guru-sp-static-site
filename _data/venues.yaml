@@ -1,4 +1,7 @@
 ---
+- id: 42
+  name: Eureka Coworking
+  address: Av. Paulista 688, Bela Vista, São Paulo
 - id: 41
   name: Garoa Hacker Clube
   address: R. Pascoal Bianco, 48, Pinheiros, São Paulo
