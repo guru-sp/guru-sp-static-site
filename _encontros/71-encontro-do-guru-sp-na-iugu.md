@@ -10,18 +10,17 @@ album_photos: https://lh3.googleusercontent.com/pw/AP1GczNMqeONk_NEQMCHYpfFZw355
 external_urls: ['https://www.meetup.com/guru-sp-grupo-de-usuarios-ruby-de-sao-paulo/events/310329502', 'https://www.sympla.com.br/evento/71-encontro-do-guru-sp-na-iugu/3061535', 'https://www.youtube.com/watch?v=AREZ8MfABpY']
 ---
 
-Em setembro de 2025 voltamos a fazer um encontro na Iugu após 2 anos! A casa estava cheia, e tivemos mais de 50 participantes, diversas palestras
-e uma mesa redonda sobre programação com AI/LLMs.
+Em setembro de 2025 voltamos a fazer um encontro na Iugu após 2 anos! A casa estava cheia, e tivemos mais de 50 participantes, diversas palestras e uma mesa redonda sobre programação com AI/LLMs.
 
 ## Conteúdo apresentado
-- O R do Rest - Odinei Ramone
-- Prompt Engineering com Ruby - Elaine Naomi
-- Domando o Monólito Rails: Como +300 Engenheiros Entregam Juntos - Heitor Almeida
-- Sovereign Clouds - Jorge Luis de Andrade Borges
-- The secret for consistent AI feature: ActiveGenie - Radamés Roriz
+- O R do Rest [(slides](https://speakerdeck.com/odineiramone/o-r-do-rest)) - Odinei Ramone
+- Prompt Engineering com Ruby [(slides](https://speakerdeck.com/elainenaomi/guru-sp-prompt-engineering-com-ruby)) - Elaine Naomi
+- Domando o Monólito Rails: Como +300 Engenheiros Entregam Juntos ([slides](https://speakerdeck.com/haga/domando-o-monolito-rails-como-plus-300-engenheiros-entregam-juntos)) - Heitor Almeida
+- Sovereign Clouds ([slides](https://speakerdeck.com/guru_sp/sovereign-clouds-jorge-borges-guru-sp-71)) - Jorge Luis de Andrade Borges
+- The secret for consistent AI feature: ActiveGenie ([slides](https://speakerdeck.com/guru_sp/the-secret-to-consistent-genai-activegenie-dot-ai-radames-roriz)) - Radamés Roriz
 - Mesa redonda programação com AI/LLMs - contou com a participação de alguns dos palestrantes e também de outras pessoas que estavam presentes no dia
 
-Agradecemos as pessoas que tornaram esse encontro possível: Ana Feire, Carolina Rodrigues, Evilyn, Thiago, Odinei e a [Iugu](https://iugu.com.br) por oferecer o espaço, coffe-break além de diversos brindes para os participantes. Também gostariamos de agradecer a todos as pessoas que palestraram e participaram fazendo perguntas ou particpando da mesa redonda.
+Agradecemos as pessoas que tornaram esse encontro possível: Ana Freire, Carolina Rodrigues, Evilyn, Thiago, Odinei e a [Iugu](https://iugu.com.br) por oferecer o espaço, coffe-break além de diversos brindes para os participantes. E por fim gostariamos de agradecer a todos as pessoas que palestraram e participaram fazendo perguntas ou particpando da mesa redonda.
 
 
 
